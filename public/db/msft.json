@@ -1,0 +1,7310 @@
+[
+  {
+    "dateOpen": "15-Jan-19",
+    "open": 102.51,
+    "dateClose": "11-Mar-19",
+    "close": 112.83,
+    "rsi": 69.95
+  },
+  {
+    "dateOpen": "16-Jan-19",
+    "open": 105.26,
+    "dateClose": "15-Mar-19",
+    "close": 115.91,
+    "rsi": 70.72
+  },
+  {
+    "dateOpen": "17-Jan-19",
+    "open": 105.0,
+    "dateClose": "15-Mar-19",
+    "close": 115.91,
+    "rsi": 72.25
+  },
+  {
+    "dateOpen": "18-Jan-19",
+    "open": 107.46,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 75.24
+  },
+  {
+    "dateOpen": "22-Jan-19",
+    "open": 106.75,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 65.53
+  },
+  {
+    "dateOpen": "23-Jan-19",
+    "open": 106.12,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 67.8
+  },
+  {
+    "dateOpen": "24-Jan-19",
+    "open": 106.86,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 65.5
+  },
+  {
+    "dateOpen": "25-Jan-19",
+    "open": 107.24,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 67.74
+  },
+  {
+    "dateOpen": "28-Jan-19",
+    "open": 106.26,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 58.86
+  },
+  {
+    "dateOpen": "29-Jan-19",
+    "open": 104.88,
+    "dateClose": "15-Mar-19",
+    "close": 115.91,
+    "rsi": 51.43
+  },
+  {
+    "dateOpen": "30-Jan-19",
+    "open": 104.62,
+    "dateClose": "15-Mar-19",
+    "close": 115.91,
+    "rsi": 60.14
+  },
+  {
+    "dateOpen": "31-Jan-19",
+    "open": 103.8,
+    "dateClose": "13-Mar-19",
+    "close": 114.5,
+    "rsi": 54.2
+  },
+  {
+    "dateOpen": "01-Feb-19",
+    "open": 103.78,
+    "dateClose": "13-Mar-19",
+    "close": 114.5,
+    "rsi": 49.73
+  },
+  {
+    "dateOpen": "04-Feb-19",
+    "open": 102.87,
+    "dateClose": "12-Mar-19",
+    "close": 113.62,
+    "rsi": 56.64
+  },
+  {
+    "dateOpen": "05-Feb-19",
+    "open": 106.06,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 59.63
+  },
+  {
+    "dateOpen": "06-Feb-19",
+    "open": 107.0,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 56.27
+  },
+  {
+    "dateOpen": "07-Feb-19",
+    "open": 105.19,
+    "dateClose": "15-Mar-19",
+    "close": 115.91,
+    "rsi": 54.17
+  },
+  {
+    "dateOpen": "08-Feb-19",
+    "open": 104.39,
+    "dateClose": "15-Mar-19",
+    "close": 115.91,
+    "rsi": 55.12
+  },
+  {
+    "dateOpen": "11-Feb-19",
+    "open": 106.2,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 53.86
+  },
+  {
+    "dateOpen": "12-Feb-19",
+    "open": 106.14,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 57.91
+  },
+  {
+    "dateOpen": "13-Feb-19",
+    "open": 107.5,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 57.65
+  },
+  {
+    "dateOpen": "14-Feb-19",
+    "open": 106.31,
+    "dateClose": "18-Mar-19",
+    "close": 117.57,
+    "rsi": 57.88
+  },
+  {
+    "dateOpen": "15-Feb-19",
+    "open": 107.91,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 61.26
+  },
+  {
+    "dateOpen": "19-Feb-19",
+    "open": 107.79,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 61.06
+  },
+  {
+    "dateOpen": "20-Feb-19",
+    "open": 107.86,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 56.98
+  },
+  {
+    "dateOpen": "21-Feb-19",
+    "open": 106.9,
+    "dateClose": "19-Mar-19",
+    "close": 117.65,
+    "rsi": 62.9
+  },
+  {
+    "dateOpen": "22-Feb-19",
+    "open": 110.05,
+    "dateClose": "17-Apr-19",
+    "close": 121.77,
+    "rsi": 66.35
+  },
+  {
+    "dateOpen": "25-Feb-19",
+    "open": 111.76,
+    "dateClose": "18-Apr-19",
+    "close": 123.37,
+    "rsi": 67.63
+  },
+  {
+    "dateOpen": "26-Feb-19",
+    "open": 111.26,
+    "dateClose": "18-Apr-19",
+    "close": 123.37,
+    "rsi": 69.21
+  },
+  {
+    "dateOpen": "27-Feb-19",
+    "open": 111.69,
+    "dateClose": "18-Apr-19",
+    "close": 123.37,
+    "rsi": 68.32
+  },
+  {
+    "dateOpen": "28-Feb-19",
+    "open": 112.04,
+    "dateClose": "18-Apr-19",
+    "close": 123.37,
+    "rsi": 67.64
+  },
+  {
+    "dateOpen": "01-Mar-19",
+    "open": 112.89,
+    "dateClose": "23-Apr-19",
+    "close": 125.44,
+    "rsi": 68.84
+  },
+  {
+    "dateOpen": "04-Mar-19",
+    "open": 113.02,
+    "dateClose": "23-Apr-19",
+    "close": 125.44,
+    "rsi": 67.39
+  },
+  {
+    "dateOpen": "05-Mar-19",
+    "open": 112.25,
+    "dateClose": "22-Apr-19",
+    "close": 123.76,
+    "rsi": 64.35
+  },
+  {
+    "dateOpen": "06-Mar-19",
+    "open": 111.87,
+    "dateClose": "18-Apr-19",
+    "close": 123.37,
+    "rsi": 64.5
+  },
+  {
+    "dateOpen": "07-Mar-19",
+    "open": 111.4,
+    "dateClose": "18-Apr-19",
+    "close": 123.37,
+    "rsi": 57.26
+  },
+  {
+    "dateOpen": "08-Mar-19",
+    "open": 109.16,
+    "dateClose": "21-Mar-19",
+    "close": 120.22,
+    "rsi": 57.71
+  },
+  {
+    "dateOpen": "11-Mar-19",
+    "open": 110.99,
+    "dateClose": "18-Apr-19",
+    "close": 123.37,
+    "rsi": 65.33
+  },
+  {
+    "dateOpen": "12-Mar-19",
+    "open": 112.82,
+    "dateClose": "23-Apr-19",
+    "close": 125.44,
+    "rsi": 67.48
+  },
+  {
+    "dateOpen": "13-Mar-19",
+    "open": 114.13,
+    "dateClose": "25-Apr-19",
+    "close": 129.15,
+    "rsi": 69.73
+  },
+  {
+    "dateOpen": "14-Mar-19",
+    "open": 114.54,
+    "dateClose": "25-Apr-19",
+    "close": 129.15,
+    "rsi": 69.96
+  },
+  {
+    "dateOpen": "15-Mar-19",
+    "open": 115.34,
+    "dateClose": "25-Apr-19",
+    "close": 129.15,
+    "rsi": 73.16
+  },
+  {
+    "dateOpen": "18-Mar-19",
+    "open": 116.17,
+    "dateClose": "25-Apr-19",
+    "close": 129.15,
+    "rsi": 76.55
+  },
+  {
+    "dateOpen": "19-Mar-19",
+    "open": 118.09,
+    "dateClose": "30-Apr-19",
+    "close": 130.6,
+    "rsi": 76.7
+  },
+  {
+    "dateOpen": "20-Mar-19",
+    "open": 117.39,
+    "dateClose": "25-Apr-19",
+    "close": 129.15,
+    "rsi": 75.84
+  },
+  {
+    "dateOpen": "21-Mar-19",
+    "open": 117.14,
+    "dateClose": "25-Apr-19",
+    "close": 129.15,
+    "rsi": 80.7
+  },
+  {
+    "dateOpen": "22-Mar-19",
+    "open": 119.5,
+    "dateClose": "10-Jun-19",
+    "close": 132.6,
+    "rsi": 64.33
+  },
+  {
+    "dateOpen": "25-Mar-19",
+    "open": 116.56,
+    "dateClose": "25-Apr-19",
+    "close": 129.15,
+    "rsi": 65.77
+  },
+  {
+    "dateOpen": "26-Mar-19",
+    "open": 118.62,
+    "dateClose": "30-Apr-19",
+    "close": 130.6,
+    "rsi": 66.37
+  },
+  {
+    "dateOpen": "27-Mar-19",
+    "open": 117.88,
+    "dateClose": "26-Apr-19",
+    "close": 129.89,
+    "rsi": 61.12
+  },
+  {
+    "dateOpen": "28-Mar-19",
+    "open": 117.44,
+    "dateClose": "26-Apr-19",
+    "close": 129.89,
+    "rsi": 61.58
+  },
+  {
+    "dateOpen": "29-Mar-19",
+    "open": 118.07,
+    "dateClose": "26-Apr-19",
+    "close": 129.89,
+    "rsi": 64.44
+  },
+  {
+    "dateOpen": "01-Apr-19",
+    "open": 118.95,
+    "dateClose": "07-Jun-19",
+    "close": 131.4,
+    "rsi": 67.24
+  },
+  {
+    "dateOpen": "02-Apr-19",
+    "open": 119.06,
+    "dateClose": "07-Jun-19",
+    "close": 131.4,
+    "rsi": 67.67
+  },
+  {
+    "dateOpen": "03-Apr-19",
+    "open": 119.86,
+    "dateClose": "10-Jun-19",
+    "close": 132.6,
+    "rsi": 69.65
+  },
+  {
+    "dateOpen": "04-Apr-19",
+    "open": 120.1,
+    "dateClose": "10-Jun-19",
+    "close": 132.6,
+    "rsi": 66.24
+  },
+  {
+    "dateOpen": "05-Apr-19",
+    "open": 119.39,
+    "dateClose": "07-Jun-19",
+    "close": 131.4,
+    "rsi": 67.72
+  },
+  {
+    "dateOpen": "08-Apr-19",
+    "open": 119.81,
+    "dateClose": "10-Jun-19",
+    "close": 132.6,
+    "rsi": 67.83
+  },
+  {
+    "dateOpen": "09-Apr-19",
+    "open": 118.63,
+    "dateClose": "30-Apr-19",
+    "close": 130.6,
+    "rsi": 63.86
+  },
+  {
+    "dateOpen": "10-Apr-19",
+    "open": 119.76,
+    "dateClose": "10-Jun-19",
+    "close": 132.6,
+    "rsi": 66.79
+  },
+  {
+    "dateOpen": "11-Apr-19",
+    "open": 120.54,
+    "dateClose": "10-Jun-19",
+    "close": 132.6,
+    "rsi": 67.23
+  },
+  {
+    "dateOpen": "12-Apr-19",
+    "open": 120.64,
+    "dateClose": "17-Jun-19",
+    "close": 132.85,
+    "rsi": 69.18
+  },
+  {
+    "dateOpen": "15-Apr-19",
+    "open": 120.94,
+    "dateClose": "18-Jun-19",
+    "close": 135.16,
+    "rsi": 69.5
+  },
+  {
+    "dateOpen": "16-Apr-19",
+    "open": 121.64,
+    "dateClose": "18-Jun-19",
+    "close": 135.16,
+    "rsi": 67.42
+  },
+  {
+    "dateOpen": "17-Apr-19",
+    "open": 121.24,
+    "dateClose": "18-Jun-19",
+    "close": 135.16,
+    "rsi": 70.78
+  },
+  {
+    "dateOpen": "18-Apr-19",
+    "open": 122.19,
+    "dateClose": "18-Jun-19",
+    "close": 135.16,
+    "rsi": 75.19
+  },
+  {
+    "dateOpen": "22-Apr-19",
+    "open": 122.62,
+    "dateClose": "18-Jun-19",
+    "close": 135.16,
+    "rsi": 76.13
+  },
+  {
+    "dateOpen": "23-Apr-19",
+    "open": 124.1,
+    "dateClose": "20-Jun-19",
+    "close": 136.95,
+    "rsi": 79.72
+  },
+  {
+    "dateOpen": "24-Apr-19",
+    "open": 125.79,
+    "dateClose": "11-Jul-19",
+    "close": 138.4,
+    "rsi": 76.55
+  },
+  {
+    "dateOpen": "25-Apr-19",
+    "open": 130.06,
+    "dateClose": "28-Oct-19",
+    "close": 144.19,
+    "rsi": 83.39
+  },
+  {
+    "dateOpen": "26-Apr-19",
+    "open": 129.7,
+    "dateClose": "28-Oct-19",
+    "close": 144.19,
+    "rsi": 84.28
+  },
+  {
+    "dateOpen": "29-Apr-19",
+    "open": 129.9,
+    "dateClose": "28-Oct-19",
+    "close": 144.19,
+    "rsi": 83.5
+  },
+  {
+    "dateOpen": "30-Apr-19",
+    "open": 129.81,
+    "dateClose": "28-Oct-19",
+    "close": 144.19,
+    "rsi": 84.56
+  },
+  {
+    "dateOpen": "01-May-19",
+    "open": 130.53,
+    "dateClose": "28-Oct-19",
+    "close": 144.19,
+    "rsi": 68.95
+  },
+  {
+    "dateOpen": "02-May-19",
+    "open": 127.98,
+    "dateClose": "26-Jul-19",
+    "close": 141.34,
+    "rsi": 61.45
+  },
+  {
+    "dateOpen": "03-May-19",
+    "open": 127.36,
+    "dateClose": "24-Jul-19",
+    "close": 140.72,
+    "rsi": 67.57
+  },
+  {
+    "dateOpen": "06-May-19",
+    "open": 126.39,
+    "dateClose": "23-Jul-19",
+    "close": 139.29,
+    "rsi": 64.49
+  },
+  {
+    "dateOpen": "07-May-19",
+    "open": 126.46,
+    "dateClose": "23-Jul-19",
+    "close": 139.29,
+    "rsi": 55.04
+  },
+  {
+    "dateOpen": "08-May-19",
+    "open": 125.44,
+    "dateClose": "11-Jul-19",
+    "close": 138.4,
+    "rsi": 55.0
+  },
+  {
+    "dateOpen": "09-May-19",
+    "open": 124.29,
+    "dateClose": "20-Jun-19",
+    "close": 136.95,
+    "rsi": 54.97
+  },
+  {
+    "dateOpen": "10-May-19",
+    "open": 124.91,
+    "dateClose": "24-Jun-19",
+    "close": 137.78,
+    "rsi": 59.55
+  },
+  {
+    "dateOpen": "13-May-19",
+    "open": 124.11,
+    "dateClose": "20-Jun-19",
+    "close": 136.95,
+    "rsi": 47.48
+  },
+  {
+    "dateOpen": "14-May-19",
+    "open": 123.87,
+    "dateClose": "20-Jun-19",
+    "close": 136.95,
+    "rsi": 51.36
+  },
+  {
+    "dateOpen": "15-May-19",
+    "open": 124.26,
+    "dateClose": "20-Jun-19",
+    "close": 136.95,
+    "rsi": 54.72
+  },
+  {
+    "dateOpen": "16-May-19",
+    "open": 126.75,
+    "dateClose": "24-Jul-19",
+    "close": 140.72,
+    "rsi": 61.24
+  },
+  {
+    "dateOpen": "17-May-19",
+    "open": 128.31,
+    "dateClose": "26-Jul-19",
+    "close": 141.34,
+    "rsi": 58.55
+  },
+  {
+    "dateOpen": "20-May-19",
+    "open": 126.52,
+    "dateClose": "23-Jul-19",
+    "close": 139.29,
+    "rsi": 53.16
+  },
+  {
+    "dateOpen": "21-May-19",
+    "open": 127.43,
+    "dateClose": "24-Jul-19",
+    "close": 140.72,
+    "rsi": 54.81
+  },
+  {
+    "dateOpen": "22-May-19",
+    "open": 126.62,
+    "dateClose": "23-Jul-19",
+    "close": 139.29,
+    "rsi": 56.67
+  },
+  {
+    "dateOpen": "23-May-19",
+    "open": 126.2,
+    "dateClose": "12-Jul-19",
+    "close": 138.9,
+    "rsi": 52.19
+  },
+  {
+    "dateOpen": "24-May-19",
+    "open": 126.91,
+    "dateClose": "24-Jul-19",
+    "close": 140.72,
+    "rsi": 52.36
+  },
+  {
+    "dateOpen": "28-May-19",
+    "open": 126.98,
+    "dateClose": "24-Jul-19",
+    "close": 140.72,
+    "rsi": 52.1
+  },
+  {
+    "dateOpen": "29-May-19",
+    "open": 125.38,
+    "dateClose": "11-Jul-19",
+    "close": 138.4,
+    "rsi": 48.24
+  },
+  {
+    "dateOpen": "30-May-19",
+    "open": 125.26,
+    "dateClose": "10-Jul-19",
+    "close": 137.85,
+    "rsi": 50.78
+  },
+  {
+    "dateOpen": "31-May-19",
+    "open": 124.23,
+    "dateClose": "20-Jun-19",
+    "close": 136.95,
+    "rsi": 44.65
+  },
+  {
+    "dateOpen": "03-Jun-19",
+    "open": 123.85,
+    "dateClose": "20-Jun-19",
+    "close": 136.95,
+    "rsi": 35.9
+  },
+  {
+    "dateOpen": "04-Jun-19",
+    "open": 121.28,
+    "dateClose": "18-Jun-19",
+    "close": 135.16,
+    "rsi": 45.79
+  },
+  {
+    "dateOpen": "05-Jun-19",
+    "open": 124.95,
+    "dateClose": "24-Jun-19",
+    "close": 137.78,
+    "rsi": 52.18
+  },
+  {
+    "dateOpen": "06-Jun-19",
+    "open": 126.44,
+    "dateClose": "23-Jul-19",
+    "close": 139.29,
+    "rsi": 56.31
+  },
+  {
+    "dateOpen": "07-Jun-19",
+    "open": 129.19,
+    "dateClose": "28-Oct-19",
+    "close": 144.19,
+    "rsi": 62.58
+  },
+  {
+    "dateOpen": "10-Jun-19",
+    "open": 132.4,
+    "dateClose": "08-Nov-19",
+    "close": 145.96,
+    "rsi": 64.42
+  },
+  {
+    "dateOpen": "11-Jun-19",
+    "open": 133.88,
+    "dateClose": "13-Nov-19",
+    "close": 147.31,
+    "rsi": 63.03
+  },
+  {
+    "dateOpen": "12-Jun-19",
+    "open": 131.4,
+    "dateClose": "30-Oct-19",
+    "close": 144.61,
+    "rsi": 61.29
+  },
+  {
+    "dateOpen": "13-Jun-19",
+    "open": 131.98,
+    "dateClose": "08-Nov-19",
+    "close": 145.96,
+    "rsi": 62.79
+  },
+  {
+    "dateOpen": "14-Jun-19",
+    "open": 132.26,
+    "dateClose": "08-Nov-19",
+    "close": 145.96,
+    "rsi": 63.04
+  },
+  {
+    "dateOpen": "17-Jun-19",
+    "open": 132.63,
+    "dateClose": "08-Nov-19",
+    "close": 145.96,
+    "rsi": 63.82
+  },
+  {
+    "dateOpen": "18-Jun-19",
+    "open": 134.19,
+    "dateClose": "14-Nov-19",
+    "close": 148.06,
+    "rsi": 68.02
+  },
+  {
+    "dateOpen": "19-Jun-19",
+    "open": 135.0,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 68.91
+  },
+  {
+    "dateOpen": "20-Jun-19",
+    "open": 137.45,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 70.99
+  },
+  {
+    "dateOpen": "21-Jun-19",
+    "open": 136.58,
+    "dateClose": "18-Nov-19",
+    "close": 150.34,
+    "rsi": 71.02
+  },
+  {
+    "dateOpen": "24-Jun-19",
+    "open": 137.0,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 72.39
+  },
+  {
+    "dateOpen": "25-Jun-19",
+    "open": 137.25,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 56.84
+  },
+  {
+    "dateOpen": "26-Jun-19",
+    "open": 134.35,
+    "dateClose": "14-Nov-19",
+    "close": 148.06,
+    "rsi": 57.96
+  },
+  {
+    "dateOpen": "27-Jun-19",
+    "open": 134.14,
+    "dateClose": "14-Nov-19",
+    "close": 148.06,
+    "rsi": 58.47
+  },
+  {
+    "dateOpen": "28-Jun-19",
+    "open": 134.57,
+    "dateClose": "14-Nov-19",
+    "close": 148.06,
+    "rsi": 57.81
+  },
+  {
+    "dateOpen": "01-Jul-19",
+    "open": 136.63,
+    "dateClose": "18-Nov-19",
+    "close": 150.34,
+    "rsi": 61.95
+  },
+  {
+    "dateOpen": "02-Jul-19",
+    "open": 136.12,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 63.94
+  },
+  {
+    "dateOpen": "03-Jul-19",
+    "open": 136.8,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 65.83
+  },
+  {
+    "dateOpen": "05-Jul-19",
+    "open": 135.94,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 64.19
+  },
+  {
+    "dateOpen": "08-Jul-19",
+    "open": 136.4,
+    "dateClose": "18-Nov-19",
+    "close": 150.34,
+    "rsi": 63.76
+  },
+  {
+    "dateOpen": "09-Jul-19",
+    "open": 136.0,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 61.55
+  },
+  {
+    "dateOpen": "10-Jul-19",
+    "open": 137.13,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 65.16
+  },
+  {
+    "dateOpen": "11-Jul-19",
+    "open": 138.2,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 66.51
+  },
+  {
+    "dateOpen": "12-Jul-19",
+    "open": 138.85,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 67.72
+  },
+  {
+    "dateOpen": "15-Jul-19",
+    "open": 139.44,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 67.72
+  },
+  {
+    "dateOpen": "16-Jul-19",
+    "open": 138.96,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 58.71
+  },
+  {
+    "dateOpen": "17-Jul-19",
+    "open": 137.7,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 55.19
+  },
+  {
+    "dateOpen": "18-Jul-19",
+    "open": 135.55,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 55.72
+  },
+  {
+    "dateOpen": "19-Jul-19",
+    "open": 140.22,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 56.46
+  },
+  {
+    "dateOpen": "22-Jul-19",
+    "open": 137.41,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 62.55
+  },
+  {
+    "dateOpen": "23-Jul-19",
+    "open": 139.76,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 65.05
+  },
+  {
+    "dateOpen": "24-Jul-19",
+    "open": 138.9,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 68.78
+  },
+  {
+    "dateOpen": "25-Jul-19",
+    "open": 140.43,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 65.97
+  },
+  {
+    "dateOpen": "26-Jul-19",
+    "open": 140.37,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 68.94
+  },
+  {
+    "dateOpen": "29-Jul-19",
+    "open": 141.5,
+    "dateClose": "19-Dec-19",
+    "close": 155.71,
+    "rsi": 67.24
+  },
+  {
+    "dateOpen": "30-Jul-19",
+    "open": 140.14,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 63.53
+  },
+  {
+    "dateOpen": "31-Jul-19",
+    "open": 140.33,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 46.85
+  },
+  {
+    "dateOpen": "01-Aug-19",
+    "open": 137.0,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 52.71
+  },
+  {
+    "dateOpen": "02-Aug-19",
+    "open": 138.09,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 48.94
+  },
+  {
+    "dateOpen": "05-Aug-19",
+    "open": 133.3,
+    "dateClose": "12-Nov-19",
+    "close": 147.07,
+    "rsi": 37.32
+  },
+  {
+    "dateOpen": "06-Aug-19",
+    "open": 133.8,
+    "dateClose": "13-Nov-19",
+    "close": 147.31,
+    "rsi": 44.79
+  },
+  {
+    "dateOpen": "07-Aug-19",
+    "open": 133.79,
+    "dateClose": "13-Nov-19",
+    "close": 147.31,
+    "rsi": 46.42
+  },
+  {
+    "dateOpen": "08-Aug-19",
+    "open": 136.6,
+    "dateClose": "18-Nov-19",
+    "close": 150.34,
+    "rsi": 55.17
+  },
+  {
+    "dateOpen": "09-Aug-19",
+    "open": 138.61,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 52.17
+  },
+  {
+    "dateOpen": "12-Aug-19",
+    "open": 137.07,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 47.64
+  },
+  {
+    "dateOpen": "13-Aug-19",
+    "open": 136.05,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 53.95
+  },
+  {
+    "dateOpen": "14-Aug-19",
+    "open": 136.36,
+    "dateClose": "18-Nov-19",
+    "close": 150.34,
+    "rsi": 44.46
+  },
+  {
+    "dateOpen": "15-Aug-19",
+    "open": 134.39,
+    "dateClose": "14-Nov-19",
+    "close": 148.06,
+    "rsi": 43.92
+  },
+  {
+    "dateOpen": "16-Aug-19",
+    "open": 134.88,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 49.33
+  },
+  {
+    "dateOpen": "19-Aug-19",
+    "open": 137.85,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 53.8
+  },
+  {
+    "dateOpen": "20-Aug-19",
+    "open": 138.21,
+    "dateClose": "27-Nov-19",
+    "close": 152.32,
+    "rsi": 51.34
+  },
+  {
+    "dateOpen": "21-Aug-19",
+    "open": 138.55,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 54.33
+  },
+  {
+    "dateOpen": "22-Aug-19",
+    "open": 138.66,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 52.06
+  },
+  {
+    "dateOpen": "23-Aug-19",
+    "open": 137.19,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 43.53
+  },
+  {
+    "dateOpen": "26-Aug-19",
+    "open": 134.99,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 47.85
+  },
+  {
+    "dateOpen": "27-Aug-19",
+    "open": 136.39,
+    "dateClose": "18-Nov-19",
+    "close": 150.34,
+    "rsi": 48.44
+  },
+  {
+    "dateOpen": "28-Aug-19",
+    "open": 134.88,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 48.08
+  },
+  {
+    "dateOpen": "29-Aug-19",
+    "open": 137.25,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 53.49
+  },
+  {
+    "dateOpen": "30-Aug-19",
+    "open": 139.15,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 52.89
+  },
+  {
+    "dateOpen": "03-Sep-19",
+    "open": 136.61,
+    "dateClose": "18-Nov-19",
+    "close": 150.34,
+    "rsi": 48.74
+  },
+  {
+    "dateOpen": "04-Sep-19",
+    "open": 137.3,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 52.26
+  },
+  {
+    "dateOpen": "05-Sep-19",
+    "open": 139.11,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 57.09
+  },
+  {
+    "dateOpen": "06-Sep-19",
+    "open": 140.03,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 54.75
+  },
+  {
+    "dateOpen": "09-Sep-19",
+    "open": 139.59,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 51.0
+  },
+  {
+    "dateOpen": "10-Sep-19",
+    "open": 136.8,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 47.79
+  },
+  {
+    "dateOpen": "11-Sep-19",
+    "open": 135.91,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 47.89
+  },
+  {
+    "dateOpen": "12-Sep-19",
+    "open": 137.85,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 51.34
+  },
+  {
+    "dateOpen": "13-Sep-19",
+    "open": 137.78,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 50.82
+  },
+  {
+    "dateOpen": "16-Sep-19",
+    "open": 135.83,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 48.23
+  },
+  {
+    "dateOpen": "17-Sep-19",
+    "open": 136.96,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 51.11
+  },
+  {
+    "dateOpen": "18-Sep-19",
+    "open": 137.36,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 54.03
+  },
+  {
+    "dateOpen": "19-Sep-19",
+    "open": 140.3,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 59.88
+  },
+  {
+    "dateOpen": "20-Sep-19",
+    "open": 141.01,
+    "dateClose": "16-Dec-19",
+    "close": 155.53,
+    "rsi": 55.06
+  },
+  {
+    "dateOpen": "23-Sep-19",
+    "open": 139.23,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 54.2
+  },
+  {
+    "dateOpen": "24-Sep-19",
+    "open": 140.36,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 49.31
+  },
+  {
+    "dateOpen": "25-Sep-19",
+    "open": 137.5,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 54.3
+  },
+  {
+    "dateOpen": "26-Sep-19",
+    "open": 139.44,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 54.74
+  },
+  {
+    "dateOpen": "27-Sep-19",
+    "open": 140.15,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 49.6
+  },
+  {
+    "dateOpen": "30-Sep-19",
+    "open": 138.05,
+    "dateClose": "26-Nov-19",
+    "close": 152.03,
+    "rsi": 53.01
+  },
+  {
+    "dateOpen": "01-Oct-19",
+    "open": 139.66,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 47.77
+  },
+  {
+    "dateOpen": "02-Oct-19",
+    "open": 136.25,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 42.21
+  },
+  {
+    "dateOpen": "03-Oct-19",
+    "open": 134.95,
+    "dateClose": "15-Nov-19",
+    "close": 149.97,
+    "rsi": 46.71
+  },
+  {
+    "dateOpen": "04-Oct-19",
+    "open": 136.75,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 51.31
+  },
+  {
+    "dateOpen": "07-Oct-19",
+    "open": 137.14,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 48.84
+  },
+  {
+    "dateOpen": "08-Oct-19",
+    "open": 137.08,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 45.43
+  },
+  {
+    "dateOpen": "09-Oct-19",
+    "open": 137.46,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 51.85
+  },
+  {
+    "dateOpen": "10-Oct-19",
+    "open": 138.49,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 53.81
+  },
+  {
+    "dateOpen": "11-Oct-19",
+    "open": 140.12,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 55.14
+  },
+  {
+    "dateOpen": "14-Oct-19",
+    "open": 139.69,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 54.76
+  },
+  {
+    "dateOpen": "15-Oct-19",
+    "open": 140.06,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 59.43
+  },
+  {
+    "dateOpen": "16-Oct-19",
+    "open": 140.79,
+    "dateClose": "16-Dec-19",
+    "close": 155.53,
+    "rsi": 55.86
+  },
+  {
+    "dateOpen": "17-Oct-19",
+    "open": 140.95,
+    "dateClose": "16-Dec-19",
+    "close": 155.53,
+    "rsi": 53.71
+  },
+  {
+    "dateOpen": "18-Oct-19",
+    "open": 139.76,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 47.46
+  },
+  {
+    "dateOpen": "21-Oct-19",
+    "open": 138.45,
+    "dateClose": "27-Nov-19",
+    "close": 152.32,
+    "rsi": 50.25
+  },
+  {
+    "dateOpen": "22-Oct-19",
+    "open": 138.97,
+    "dateClose": "12-Dec-19",
+    "close": 153.24,
+    "rsi": 45.05
+  },
+  {
+    "dateOpen": "23-Oct-19",
+    "open": 136.88,
+    "dateClose": "25-Nov-19",
+    "close": 151.23,
+    "rsi": 47.52
+  },
+  {
+    "dateOpen": "24-Oct-19",
+    "open": 139.39,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 54.37
+  },
+  {
+    "dateOpen": "25-Oct-19",
+    "open": 139.34,
+    "dateClose": "13-Dec-19",
+    "close": 154.53,
+    "rsi": 56.18
+  },
+  {
+    "dateOpen": "28-Oct-19",
+    "open": 144.4,
+    "dateClose": "27-Dec-19",
+    "close": 158.96,
+    "rsi": 63.06
+  },
+  {
+    "dateOpen": "29-Oct-19",
+    "open": 144.08,
+    "dateClose": "26-Dec-19",
+    "close": 158.67,
+    "rsi": 59.13
+  },
+  {
+    "dateOpen": "30-Oct-19",
+    "open": 143.52,
+    "dateClose": "26-Dec-19",
+    "close": 158.67,
+    "rsi": 62.43
+  },
+  {
+    "dateOpen": "31-Oct-19",
+    "open": 144.9,
+    "dateClose": "02-Jan-20",
+    "close": 160.62,
+    "rsi": 58.86
+  },
+  {
+    "dateOpen": "01-Nov-19",
+    "open": 144.26,
+    "dateClose": "27-Dec-19",
+    "close": 158.96,
+    "rsi": 59.56
+  },
+  {
+    "dateOpen": "04-Nov-19",
+    "open": 144.83,
+    "dateClose": "02-Jan-20",
+    "close": 160.62,
+    "rsi": 61.25
+  },
+  {
+    "dateOpen": "05-Nov-19",
+    "open": 144.97,
+    "dateClose": "02-Jan-20",
+    "close": 160.62,
+    "rsi": 60.96
+  },
+  {
+    "dateOpen": "06-Nov-19",
+    "open": 144.37,
+    "dateClose": "27-Dec-19",
+    "close": 158.96,
+    "rsi": 59.57
+  },
+  {
+    "dateOpen": "07-Nov-19",
+    "open": 143.84,
+    "dateClose": "26-Dec-19",
+    "close": 158.67,
+    "rsi": 60.06
+  },
+  {
+    "dateOpen": "08-Nov-19",
+    "open": 143.98,
+    "dateClose": "26-Dec-19",
+    "close": 158.67,
+    "rsi": 64.04
+  },
+  {
+    "dateOpen": "11-Nov-19",
+    "open": 145.34,
+    "dateClose": "02-Jan-20",
+    "close": 160.62,
+    "rsi": 64.37
+  },
+  {
+    "dateOpen": "12-Nov-19",
+    "open": 146.28,
+    "dateClose": "09-Jan-20",
+    "close": 162.09,
+    "rsi": 66.54
+  },
+  {
+    "dateOpen": "13-Nov-19",
+    "open": 146.74,
+    "dateClose": "09-Jan-20",
+    "close": 162.09,
+    "rsi": 67.07
+  },
+  {
+    "dateOpen": "14-Nov-19",
+    "open": 147.02,
+    "dateClose": "09-Jan-20",
+    "close": 162.09,
+    "rsi": 68.76
+  },
+  {
+    "dateOpen": "15-Nov-19",
+    "open": 148.93,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 72.62
+  },
+  {
+    "dateOpen": "18-Nov-19",
+    "open": 150.07,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 73.31
+  },
+  {
+    "dateOpen": "19-Nov-19",
+    "open": 150.88,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 73.4
+  },
+  {
+    "dateOpen": "20-Nov-19",
+    "open": 150.31,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 69.22
+  },
+  {
+    "dateOpen": "21-Nov-19",
+    "open": 149.4,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 68.46
+  },
+  {
+    "dateOpen": "22-Nov-19",
+    "open": 150.07,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 68.75
+  },
+  {
+    "dateOpen": "25-Nov-19",
+    "open": 150.0,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 72.79
+  },
+  {
+    "dateOpen": "26-Nov-19",
+    "open": 151.36,
+    "dateClose": "17-Jan-20",
+    "close": 167.1,
+    "rsi": 74.52
+  },
+  {
+    "dateOpen": "27-Nov-19",
+    "open": 152.33,
+    "dateClose": "29-Jan-20",
+    "close": 168.04,
+    "rsi": 75.14
+  },
+  {
+    "dateOpen": "29-Nov-19",
+    "open": 152.1,
+    "dateClose": "29-Jan-20",
+    "close": 168.04,
+    "rsi": 69.28
+  },
+  {
+    "dateOpen": "02-Dec-19",
+    "open": 151.81,
+    "dateClose": "17-Jan-20",
+    "close": 167.1,
+    "rsi": 59.55
+  },
+  {
+    "dateOpen": "03-Dec-19",
+    "open": 147.49,
+    "dateClose": "13-Jan-20",
+    "close": 163.28,
+    "rsi": 58.39
+  },
+  {
+    "dateOpen": "04-Dec-19",
+    "open": 150.14,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 60.27
+  },
+  {
+    "dateOpen": "05-Dec-19",
+    "open": 150.05,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 60.55
+  },
+  {
+    "dateOpen": "06-Dec-19",
+    "open": 150.99,
+    "dateClose": "16-Jan-20",
+    "close": 166.17,
+    "rsi": 66.42
+  },
+  {
+    "dateOpen": "09-Dec-19",
+    "open": 151.07,
+    "dateClose": "17-Jan-20",
+    "close": 167.1,
+    "rsi": 64.21
+  },
+  {
+    "dateOpen": "10-Dec-19",
+    "open": 151.29,
+    "dateClose": "17-Jan-20",
+    "close": 167.1,
+    "rsi": 62.89
+  },
+  {
+    "dateOpen": "11-Dec-19",
+    "open": 151.54,
+    "dateClose": "17-Jan-20",
+    "close": 167.1,
+    "rsi": 64.82
+  },
+  {
+    "dateOpen": "12-Dec-19",
+    "open": 151.65,
+    "dateClose": "17-Jan-20",
+    "close": 167.1,
+    "rsi": 69.46
+  },
+  {
+    "dateOpen": "13-Dec-19",
+    "open": 153.0,
+    "dateClose": "30-Jan-20",
+    "close": 172.78,
+    "rsi": 72.71
+  },
+  {
+    "dateOpen": "16-Dec-19",
+    "open": 155.11,
+    "dateClose": "30-Jan-20",
+    "close": 172.78,
+    "rsi": 74.93
+  },
+  {
+    "dateOpen": "17-Dec-19",
+    "open": 155.45,
+    "dateClose": "30-Jan-20",
+    "close": 172.78,
+    "rsi": 69.79
+  },
+  {
+    "dateOpen": "18-Dec-19",
+    "open": 154.3,
+    "dateClose": "30-Jan-20",
+    "close": 172.78,
+    "rsi": 67.87
+  },
+  {
+    "dateOpen": "19-Dec-19",
+    "open": 154.0,
+    "dateClose": "30-Jan-20",
+    "close": 172.78,
+    "rsi": 71.41
+  },
+  {
+    "dateOpen": "20-Dec-19",
+    "open": 157.35,
+    "dateClose": "03-Feb-20",
+    "close": 174.38,
+    "rsi": 75.14
+  },
+  {
+    "dateOpen": "23-Dec-19",
+    "open": 158.12,
+    "dateClose": "03-Feb-20",
+    "close": 174.38,
+    "rsi": 75.14
+  },
+  {
+    "dateOpen": "24-Dec-19",
+    "open": 157.48,
+    "dateClose": "03-Feb-20",
+    "close": 174.38,
+    "rsi": 74.94
+  },
+  {
+    "dateOpen": "26-Dec-19",
+    "open": 157.56,
+    "dateClose": "03-Feb-20",
+    "close": 174.38,
+    "rsi": 77.7
+  },
+  {
+    "dateOpen": "27-Dec-19",
+    "open": 159.45,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 78.27
+  },
+  {
+    "dateOpen": "30-Dec-19",
+    "open": 158.99,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 69.16
+  },
+  {
+    "dateOpen": "31-Dec-19",
+    "open": 156.77,
+    "dateClose": "30-Jan-20",
+    "close": 172.78,
+    "rsi": 69.46
+  },
+  {
+    "dateOpen": "02-Jan-20",
+    "open": 158.78,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 76.24
+  },
+  {
+    "dateOpen": "03-Jan-20",
+    "open": 158.32,
+    "dateClose": "03-Feb-20",
+    "close": 174.38,
+    "rsi": 65.52
+  },
+  {
+    "dateOpen": "06-Jan-20",
+    "open": 157.08,
+    "dateClose": "03-Feb-20",
+    "close": 174.38,
+    "rsi": 66.56
+  },
+  {
+    "dateOpen": "07-Jan-20",
+    "open": 159.32,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 59.71
+  },
+  {
+    "dateOpen": "08-Jan-20",
+    "open": 158.93,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 66.19
+  },
+  {
+    "dateOpen": "09-Jan-20",
+    "open": 161.84,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 70.29
+  },
+  {
+    "dateOpen": "10-Jan-20",
+    "open": 162.82,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 67.01
+  },
+  {
+    "dateOpen": "13-Jan-20",
+    "open": 161.76,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 70.81
+  },
+  {
+    "dateOpen": "14-Jan-20",
+    "open": 163.39,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 65.96
+  },
+  {
+    "dateOpen": "15-Jan-20",
+    "open": 162.62,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 68.11
+  },
+  {
+    "dateOpen": "16-Jan-20",
+    "open": 164.35,
+    "dateClose": "06-Feb-20",
+    "close": 183.63,
+    "rsi": 73.28
+  },
+  {
+    "dateOpen": "17-Jan-20",
+    "open": 167.42,
+    "dateClose": "10-Feb-20",
+    "close": 188.7,
+    "rsi": 74.65
+  },
+  {
+    "dateOpen": "21-Jan-20",
+    "open": 166.68,
+    "dateClose": "06-Feb-20",
+    "close": 183.63,
+    "rsi": 72.07
+  },
+  {
+    "dateOpen": "22-Jan-20",
+    "open": 167.4,
+    "dateClose": "10-Feb-20",
+    "close": 188.7,
+    "rsi": 68.67
+  },
+  {
+    "dateOpen": "23-Jan-20",
+    "open": 166.19,
+    "dateClose": "06-Feb-20",
+    "close": 183.63,
+    "rsi": 70.58
+  },
+  {
+    "dateOpen": "24-Jan-20",
+    "open": 167.51,
+    "dateClose": "10-Feb-20",
+    "close": 188.7,
+    "rsi": 63.69
+  },
+  {
+    "dateOpen": "27-Jan-20",
+    "open": 161.15,
+    "dateClose": "04-Feb-20",
+    "close": 180.12,
+    "rsi": 54.32
+  },
+  {
+    "dateOpen": "28-Jan-20",
+    "open": 163.78,
+    "dateClose": "06-Feb-20",
+    "close": 183.63,
+    "rsi": 61.37
+  },
+  {
+    "dateOpen": "29-Jan-20",
+    "open": 167.84,
+    "dateClose": "10-Feb-20",
+    "close": 188.7,
+    "rsi": 65.97
+  },
+  {
+    "dateOpen": "30-Jan-20",
+    "open": 174.05,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 72.45
+  },
+  {
+    "dateOpen": "31-Jan-20",
+    "open": 172.21,
+    "dateClose": "09-Jun-20",
+    "close": 189.8,
+    "rsi": 65.25
+  },
+  {
+    "dateOpen": "03-Feb-20",
+    "open": 170.43,
+    "dateClose": "10-Feb-20",
+    "close": 188.7,
+    "rsi": 70.4
+  },
+  {
+    "dateOpen": "04-Feb-20",
+    "open": 177.14,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 75.76
+  },
+  {
+    "dateOpen": "05-Feb-20",
+    "open": 184.03,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 75.2
+  },
+  {
+    "dateOpen": "06-Feb-20",
+    "open": 180.97,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 78.15
+  },
+  {
+    "dateOpen": "07-Feb-20",
+    "open": 182.85,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 78.35
+  },
+  {
+    "dateOpen": "10-Feb-20",
+    "open": 183.58,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 81.6
+  },
+  {
+    "dateOpen": "11-Feb-20",
+    "open": 190.65,
+    "dateClose": "06-Jul-20",
+    "close": 210.7,
+    "rsi": 71.38
+  },
+  {
+    "dateOpen": "12-Feb-20",
+    "open": 185.58,
+    "dateClose": "01-Jul-20",
+    "close": 204.7,
+    "rsi": 71.62
+  },
+  {
+    "dateOpen": "13-Feb-20",
+    "open": 183.08,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 69.27
+  },
+  {
+    "dateOpen": "14-Feb-20",
+    "open": 183.25,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 70.95
+  },
+  {
+    "dateOpen": "18-Feb-20",
+    "open": 185.61,
+    "dateClose": "01-Jul-20",
+    "close": 204.7,
+    "rsi": 72.79
+  },
+  {
+    "dateOpen": "19-Feb-20",
+    "open": 188.06,
+    "dateClose": "06-Jul-20",
+    "close": 210.7,
+    "rsi": 72.84
+  },
+  {
+    "dateOpen": "20-Feb-20",
+    "open": 186.95,
+    "dateClose": "02-Jul-20",
+    "close": 206.26,
+    "rsi": 65.55
+  },
+  {
+    "dateOpen": "21-Feb-20",
+    "open": 183.17,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 53.73
+  },
+  {
+    "dateOpen": "24-Feb-20",
+    "open": 167.77,
+    "dateClose": "08-May-20",
+    "close": 184.68,
+    "rsi": 42.77
+  },
+  {
+    "dateOpen": "25-Feb-20",
+    "open": 174.2,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 39.59
+  },
+  {
+    "dateOpen": "26-Feb-20",
+    "open": 169.71,
+    "dateClose": "11-May-20",
+    "close": 186.74,
+    "rsi": 42.99
+  },
+  {
+    "dateOpen": "27-Feb-20",
+    "open": 163.32,
+    "dateClose": "05-May-20",
+    "close": 180.76,
+    "rsi": 31.93
+  },
+  {
+    "dateOpen": "28-Feb-20",
+    "open": 152.41,
+    "dateClose": "02-Mar-20",
+    "close": 172.79,
+    "rsi": 37.46
+  },
+  {
+    "dateOpen": "02-Mar-20",
+    "open": 165.31,
+    "dateClose": "06-May-20",
+    "close": 182.54,
+    "rsi": 49.83
+  },
+  {
+    "dateOpen": "03-Mar-20",
+    "open": 173.8,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 42.83
+  },
+  {
+    "dateOpen": "04-Mar-20",
+    "open": 168.49,
+    "dateClose": "11-May-20",
+    "close": 186.74,
+    "rsi": 48.51
+  },
+  {
+    "dateOpen": "05-Mar-20",
+    "open": 166.05,
+    "dateClose": "07-May-20",
+    "close": 183.6,
+    "rsi": 45.09
+  },
+  {
+    "dateOpen": "06-Mar-20",
+    "open": 162.61,
+    "dateClose": "30-Apr-20",
+    "close": 179.21,
+    "rsi": 41.62
+  },
+  {
+    "dateOpen": "09-Mar-20",
+    "open": 151.0,
+    "dateClose": "14-Apr-20",
+    "close": 173.7,
+    "rsi": 34.88
+  },
+  {
+    "dateOpen": "10-Mar-20",
+    "open": 158.16,
+    "dateClose": "16-Apr-20",
+    "close": 177.04,
+    "rsi": 44.06
+  },
+  {
+    "dateOpen": "11-Mar-20",
+    "open": 157.13,
+    "dateClose": "14-Apr-20",
+    "close": 173.7,
+    "rsi": 39.78
+  },
+  {
+    "dateOpen": "12-Mar-20",
+    "open": 145.3,
+    "dateClose": "30-Mar-20",
+    "close": 160.23,
+    "rsi": 32.91
+  },
+  {
+    "dateOpen": "13-Mar-20",
+    "open": 147.5,
+    "dateClose": "06-Apr-20",
+    "close": 165.27,
+    "rsi": 46.43
+  },
+  {
+    "dateOpen": "16-Mar-20",
+    "open": 140.0,
+    "dateClose": "26-Mar-20",
+    "close": 156.11,
+    "rsi": 36.94
+  },
+  {
+    "dateOpen": "17-Mar-20",
+    "open": 140.0,
+    "dateClose": "26-Mar-20",
+    "close": 156.11,
+    "rsi": 42.92
+  },
+  {
+    "dateOpen": "18-Mar-20",
+    "open": 138.0,
+    "dateClose": "26-Mar-20",
+    "close": 156.11,
+    "rsi": 40.63
+  },
+  {
+    "dateOpen": "19-Mar-20",
+    "open": 142.77,
+    "dateClose": "30-Mar-20",
+    "close": 160.23,
+    "rsi": 41.88
+  },
+  {
+    "dateOpen": "20-Mar-20",
+    "open": 146.0,
+    "dateClose": "06-Apr-20",
+    "close": 165.27,
+    "rsi": 39.78
+  },
+  {
+    "dateOpen": "23-Mar-20",
+    "open": 137.01,
+    "dateClose": "26-Mar-20",
+    "close": 156.11,
+    "rsi": 39.24
+  },
+  {
+    "dateOpen": "24-Mar-20",
+    "open": 143.75,
+    "dateClose": "30-Mar-20",
+    "close": 160.23,
+    "rsi": 46.34
+  },
+  {
+    "dateOpen": "25-Mar-20",
+    "open": 148.91,
+    "dateClose": "06-Apr-20",
+    "close": 165.27,
+    "rsi": 45.68
+  },
+  {
+    "dateOpen": "26-Mar-20",
+    "open": 148.4,
+    "dateClose": "06-Apr-20",
+    "close": 165.27,
+    "rsi": 50.58
+  },
+  {
+    "dateOpen": "27-Mar-20",
+    "open": 151.75,
+    "dateClose": "14-Apr-20",
+    "close": 173.7,
+    "rsi": 47.37
+  },
+  {
+    "dateOpen": "30-Mar-20",
+    "open": 152.44,
+    "dateClose": "14-Apr-20",
+    "close": 173.7,
+    "rsi": 52.69
+  },
+  {
+    "dateOpen": "31-Mar-20",
+    "open": 159.4,
+    "dateClose": "16-Apr-20",
+    "close": 177.04,
+    "rsi": 51.35
+  },
+  {
+    "dateOpen": "01-Apr-20",
+    "open": 153.0,
+    "dateClose": "14-Apr-20",
+    "close": 173.7,
+    "rsi": 48.41
+  },
+  {
+    "dateOpen": "02-Apr-20",
+    "open": 151.86,
+    "dateClose": "14-Apr-20",
+    "close": 173.7,
+    "rsi": 50.14
+  },
+  {
+    "dateOpen": "03-Apr-20",
+    "open": 155.1,
+    "dateClose": "14-Apr-20",
+    "close": 173.7,
+    "rsi": 49.33
+  },
+  {
+    "dateOpen": "06-Apr-20",
+    "open": 160.32,
+    "dateClose": "16-Apr-20",
+    "close": 177.04,
+    "rsi": 55.51
+  },
+  {
+    "dateOpen": "07-Apr-20",
+    "open": 169.59,
+    "dateClose": "11-May-20",
+    "close": 186.74,
+    "rsi": 54.4
+  },
+  {
+    "dateOpen": "08-Apr-20",
+    "open": 165.67,
+    "dateClose": "06-May-20",
+    "close": 182.54,
+    "rsi": 55.29
+  },
+  {
+    "dateOpen": "09-Apr-20",
+    "open": 166.36,
+    "dateClose": "07-May-20",
+    "close": 183.6,
+    "rsi": 55.3
+  },
+  {
+    "dateOpen": "13-Apr-20",
+    "open": 164.35,
+    "dateClose": "06-May-20",
+    "close": 182.54,
+    "rsi": 55.52
+  },
+  {
+    "dateOpen": "14-Apr-20",
+    "open": 169.0,
+    "dateClose": "11-May-20",
+    "close": 186.74,
+    "rsi": 60.32
+  },
+  {
+    "dateOpen": "15-Apr-20",
+    "open": 171.2,
+    "dateClose": "08-Jun-20",
+    "close": 188.36,
+    "rsi": 58.8
+  },
+  {
+    "dateOpen": "16-Apr-20",
+    "open": 174.3,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 61.74
+  },
+  {
+    "dateOpen": "17-Apr-20",
+    "open": 179.5,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 62.61
+  },
+  {
+    "dateOpen": "20-Apr-20",
+    "open": 176.63,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 59.32
+  },
+  {
+    "dateOpen": "21-Apr-20",
+    "open": 173.5,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 53.16
+  },
+  {
+    "dateOpen": "22-Apr-20",
+    "open": 171.39,
+    "dateClose": "09-Jun-20",
+    "close": 189.8,
+    "rsi": 56.95
+  },
+  {
+    "dateOpen": "23-Apr-20",
+    "open": 174.11,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 55.18
+  },
+  {
+    "dateOpen": "24-Apr-20",
+    "open": 172.06,
+    "dateClose": "09-Jun-20",
+    "close": 189.8,
+    "rsi": 57.31
+  },
+  {
+    "dateOpen": "27-Apr-20",
+    "open": 176.59,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 56.85
+  },
+  {
+    "dateOpen": "28-Apr-20",
+    "open": 175.59,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 52.93
+  },
+  {
+    "dateOpen": "29-Apr-20",
+    "open": 173.22,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 58.47
+  },
+  {
+    "dateOpen": "30-Apr-20",
+    "open": 180.0,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 59.66
+  },
+  {
+    "dateOpen": "01-May-20",
+    "open": 175.8,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 55.21
+  },
+  {
+    "dateOpen": "04-May-20",
+    "open": 174.49,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 58.29
+  },
+  {
+    "dateOpen": "05-May-20",
+    "open": 180.62,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 59.64
+  },
+  {
+    "dateOpen": "06-May-20",
+    "open": 182.08,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 60.9
+  },
+  {
+    "dateOpen": "07-May-20",
+    "open": 184.17,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 61.67
+  },
+  {
+    "dateOpen": "08-May-20",
+    "open": 184.98,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 62.48
+  },
+  {
+    "dateOpen": "11-May-20",
+    "open": 183.15,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 64.04
+  },
+  {
+    "dateOpen": "12-May-20",
+    "open": 186.8,
+    "dateClose": "02-Jul-20",
+    "close": 206.26,
+    "rsi": 58.65
+  },
+  {
+    "dateOpen": "13-May-20",
+    "open": 182.55,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 55.38
+  },
+  {
+    "dateOpen": "14-May-20",
+    "open": 177.54,
+    "dateClose": "10-Jun-20",
+    "close": 196.84,
+    "rsi": 56.12
+  },
+  {
+    "dateOpen": "15-May-20",
+    "open": 179.06,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 58.63
+  },
+  {
+    "dateOpen": "18-May-20",
+    "open": 185.75,
+    "dateClose": "01-Jul-20",
+    "close": 204.7,
+    "rsi": 60.26
+  },
+  {
+    "dateOpen": "19-May-20",
+    "open": 185.03,
+    "dateClose": "01-Jul-20",
+    "close": 204.7,
+    "rsi": 58.45
+  },
+  {
+    "dateOpen": "20-May-20",
+    "open": 184.81,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 60.48
+  },
+  {
+    "dateOpen": "21-May-20",
+    "open": 185.4,
+    "dateClose": "01-Jul-20",
+    "close": 204.7,
+    "rsi": 57.17
+  },
+  {
+    "dateOpen": "22-May-20",
+    "open": 183.19,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 57.26
+  },
+  {
+    "dateOpen": "26-May-20",
+    "open": 186.34,
+    "dateClose": "02-Jul-20",
+    "close": 206.26,
+    "rsi": 54.28
+  },
+  {
+    "dateOpen": "27-May-20",
+    "open": 180.2,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 54.59
+  },
+  {
+    "dateOpen": "28-May-20",
+    "open": 180.74,
+    "dateClose": "22-Jun-20",
+    "close": 200.57,
+    "rsi": 53.91
+  },
+  {
+    "dateOpen": "29-May-20",
+    "open": 182.73,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 56.55
+  },
+  {
+    "dateOpen": "01-Jun-20",
+    "open": 182.54,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 55.77
+  },
+  {
+    "dateOpen": "02-Jun-20",
+    "open": 184.25,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 58.81
+  },
+  {
+    "dateOpen": "03-Jun-20",
+    "open": 184.82,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 59.46
+  },
+  {
+    "dateOpen": "04-Jun-20",
+    "open": 184.3,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 54.45
+  },
+  {
+    "dateOpen": "05-Jun-20",
+    "open": 182.62,
+    "dateClose": "23-Jun-20",
+    "close": 201.91,
+    "rsi": 60.71
+  },
+  {
+    "dateOpen": "08-Jun-20",
+    "open": 185.94,
+    "dateClose": "01-Jul-20",
+    "close": 204.7,
+    "rsi": 62.22
+  },
+  {
+    "dateOpen": "09-Jun-20",
+    "open": 188.0,
+    "dateClose": "06-Jul-20",
+    "close": 210.7,
+    "rsi": 64.07
+  },
+  {
+    "dateOpen": "10-Jun-20",
+    "open": 191.13,
+    "dateClose": "06-Jul-20",
+    "close": 210.7,
+    "rsi": 71.44
+  },
+  {
+    "dateOpen": "11-Jun-20",
+    "open": 193.13,
+    "dateClose": "08-Jul-20",
+    "close": 212.83,
+    "rsi": 53.65
+  },
+  {
+    "dateOpen": "12-Jun-20",
+    "open": 190.54,
+    "dateClose": "06-Jul-20",
+    "close": 210.7,
+    "rsi": 55.32
+  },
+  {
+    "dateOpen": "15-Jun-20",
+    "open": 184.58,
+    "dateClose": "30-Jun-20",
+    "close": 203.51,
+    "rsi": 56.69
+  },
+  {
+    "dateOpen": "16-Jun-20",
+    "open": 192.89,
+    "dateClose": "08-Jul-20",
+    "close": 212.83,
+    "rsi": 61.58
+  },
+  {
+    "dateOpen": "17-Jun-20",
+    "open": 195.03,
+    "dateClose": "03-Aug-20",
+    "close": 216.54,
+    "rsi": 62.24
+  },
+  {
+    "dateOpen": "18-Jun-20",
+    "open": 194.0,
+    "dateClose": "09-Jul-20",
+    "close": 214.32,
+    "rsi": 64.31
+  },
+  {
+    "dateOpen": "19-Jun-20",
+    "open": 198.59,
+    "dateClose": "26-Aug-20",
+    "close": 221.15,
+    "rsi": 62.24
+  },
+  {
+    "dateOpen": "22-Jun-20",
+    "open": 195.79,
+    "dateClose": "03-Aug-20",
+    "close": 216.54,
+    "rsi": 67.45
+  },
+  {
+    "dateOpen": "23-Jun-20",
+    "open": 202.09,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 68.6
+  },
+  {
+    "dateOpen": "24-Jun-20",
+    "open": 201.6,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 61.48
+  },
+  {
+    "dateOpen": "25-Jun-20",
+    "open": 197.8,
+    "dateClose": "26-Aug-20",
+    "close": 221.15,
+    "rsi": 63.96
+  },
+  {
+    "dateOpen": "26-Jun-20",
+    "open": 199.73,
+    "dateClose": "26-Aug-20",
+    "close": 221.15,
+    "rsi": 57.57
+  },
+  {
+    "dateOpen": "29-Jun-20",
+    "open": 195.78,
+    "dateClose": "03-Aug-20",
+    "close": 216.54,
+    "rsi": 59.84
+  },
+  {
+    "dateOpen": "30-Jun-20",
+    "open": 197.88,
+    "dateClose": "26-Aug-20",
+    "close": 221.15,
+    "rsi": 64.73
+  },
+  {
+    "dateOpen": "01-Jul-20",
+    "open": 203.14,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 65.78
+  },
+  {
+    "dateOpen": "02-Jul-20",
+    "open": 205.68,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 67.17
+  },
+  {
+    "dateOpen": "06-Jul-20",
+    "open": 208.83,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 70.79
+  },
+  {
+    "dateOpen": "07-Jul-20",
+    "open": 210.45,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 66.43
+  },
+  {
+    "dateOpen": "08-Jul-20",
+    "open": 210.07,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 70.13
+  },
+  {
+    "dateOpen": "09-Jul-20",
+    "open": 216.33,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 71.24
+  },
+  {
+    "dateOpen": "10-Jul-20",
+    "open": 213.62,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 70.02
+  },
+  {
+    "dateOpen": "13-Jul-20",
+    "open": 214.48,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 58.96
+  },
+  {
+    "dateOpen": "14-Jul-20",
+    "open": 206.13,
+    "dateClose": "28-Aug-20",
+    "close": 228.91,
+    "rsi": 60.27
+  },
+  {
+    "dateOpen": "15-Jul-20",
+    "open": 209.56,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 59.77
+  },
+  {
+    "dateOpen": "16-Jul-20",
+    "open": 205.4,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 53.45
+  },
+  {
+    "dateOpen": "17-Jul-20",
+    "open": 204.47,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 51.95
+  },
+  {
+    "dateOpen": "20-Jul-20",
+    "open": 205.0,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 61.64
+  },
+  {
+    "dateOpen": "21-Jul-20",
+    "open": 213.66,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 57.55
+  },
+  {
+    "dateOpen": "22-Jul-20",
+    "open": 209.2,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 60.52
+  },
+  {
+    "dateOpen": "23-Jul-20",
+    "open": 207.19,
+    "dateClose": "28-Aug-20",
+    "close": 228.91,
+    "rsi": 49.17
+  },
+  {
+    "dateOpen": "24-Jul-20",
+    "open": 200.42,
+    "dateClose": "26-Aug-20",
+    "close": 221.15,
+    "rsi": 47.86
+  },
+  {
+    "dateOpen": "27-Jul-20",
+    "open": 201.47,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 50.75
+  },
+  {
+    "dateOpen": "28-Jul-20",
+    "open": 203.61,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 48.67
+  },
+  {
+    "dateOpen": "29-Jul-20",
+    "open": 202.5,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 51.08
+  },
+  {
+    "dateOpen": "30-Jul-20",
+    "open": 201.0,
+    "dateClose": "26-Aug-20",
+    "close": 221.15,
+    "rsi": 50.88
+  },
+  {
+    "dateOpen": "31-Jul-20",
+    "open": 204.4,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 52.29
+  },
+  {
+    "dateOpen": "03-Aug-20",
+    "open": 211.52,
+    "dateClose": "27-Jan-21",
+    "close": 232.9,
+    "rsi": 63.87
+  },
+  {
+    "dateOpen": "04-Aug-20",
+    "open": 214.17,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 59.49
+  },
+  {
+    "dateOpen": "05-Aug-20",
+    "open": 214.9,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 59.02
+  },
+  {
+    "dateOpen": "06-Aug-20",
+    "open": 212.34,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 62.16
+  },
+  {
+    "dateOpen": "07-Aug-20",
+    "open": 214.85,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 56.84
+  },
+  {
+    "dateOpen": "10-Aug-20",
+    "open": 211.67,
+    "dateClose": "27-Jan-21",
+    "close": 232.9,
+    "rsi": 51.64
+  },
+  {
+    "dateOpen": "11-Aug-20",
+    "open": 207.16,
+    "dateClose": "28-Aug-20",
+    "close": 228.91,
+    "rsi": 46.38
+  },
+  {
+    "dateOpen": "12-Aug-20",
+    "open": 205.29,
+    "dateClose": "27-Aug-20",
+    "close": 226.58,
+    "rsi": 52.58
+  },
+  {
+    "dateOpen": "13-Aug-20",
+    "open": 209.44,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 52.04
+  },
+  {
+    "dateOpen": "14-Aug-20",
+    "open": 208.76,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 52.25
+  },
+  {
+    "dateOpen": "17-Aug-20",
+    "open": 209.6,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 53.82
+  },
+  {
+    "dateOpen": "18-Aug-20",
+    "open": 210.53,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 55.2
+  },
+  {
+    "dateOpen": "19-Aug-20",
+    "open": 211.49,
+    "dateClose": "27-Jan-21",
+    "close": 232.9,
+    "rsi": 52.69
+  },
+  {
+    "dateOpen": "20-Aug-20",
+    "open": 209.54,
+    "dateClose": "02-Sep-20",
+    "close": 231.65,
+    "rsi": 58.27
+  },
+  {
+    "dateOpen": "21-Aug-20",
+    "open": 213.86,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 55.99
+  },
+  {
+    "dateOpen": "24-Aug-20",
+    "open": 214.79,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 56.77
+  },
+  {
+    "dateOpen": "25-Aug-20",
+    "open": 213.1,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 59.95
+  },
+  {
+    "dateOpen": "26-Aug-20",
+    "open": 217.88,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 64.65
+  },
+  {
+    "dateOpen": "27-Aug-20",
+    "open": 222.89,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 69.18
+  },
+  {
+    "dateOpen": "28-Aug-20",
+    "open": 228.18,
+    "dateClose": "08-Apr-21",
+    "close": 253.25,
+    "rsi": 70.9
+  },
+  {
+    "dateOpen": "31-Aug-20",
+    "open": 227.0,
+    "dateClose": "07-Apr-21",
+    "close": 249.9,
+    "rsi": 65.21
+  },
+  {
+    "dateOpen": "01-Sep-20",
+    "open": 225.51,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 66.69
+  },
+  {
+    "dateOpen": "02-Sep-20",
+    "open": 227.97,
+    "dateClose": "08-Apr-21",
+    "close": 253.25,
+    "rsi": 70.14
+  },
+  {
+    "dateOpen": "03-Sep-20",
+    "open": 229.27,
+    "dateClose": "08-Apr-21",
+    "close": 253.25,
+    "rsi": 51.38
+  },
+  {
+    "dateOpen": "04-Sep-20",
+    "open": 215.1,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 48.41
+  },
+  {
+    "dateOpen": "08-Sep-20",
+    "open": 206.5,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 39.16
+  },
+  {
+    "dateOpen": "09-Sep-20",
+    "open": 207.6,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 47.24
+  },
+  {
+    "dateOpen": "10-Sep-20",
+    "open": 213.4,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 43.02
+  },
+  {
+    "dateOpen": "11-Sep-20",
+    "open": 207.2,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 42.11
+  },
+  {
+    "dateOpen": "14-Sep-20",
+    "open": 204.24,
+    "dateClose": "28-Dec-20",
+    "close": 224.96,
+    "rsi": 43.44
+  },
+  {
+    "dateOpen": "15-Sep-20",
+    "open": 208.42,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 46.68
+  },
+  {
+    "dateOpen": "16-Sep-20",
+    "open": 210.62,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 43.7
+  },
+  {
+    "dateOpen": "17-Sep-20",
+    "open": 200.05,
+    "dateClose": "12-Oct-20",
+    "close": 221.4,
+    "rsi": 42.04
+  },
+  {
+    "dateOpen": "18-Sep-20",
+    "open": 202.8,
+    "dateClose": "05-Nov-20",
+    "close": 223.29,
+    "rsi": 40.11
+  },
+  {
+    "dateOpen": "21-Sep-20",
+    "open": 197.19,
+    "dateClose": "12-Oct-20",
+    "close": 221.4,
+    "rsi": 42.53
+  },
+  {
+    "dateOpen": "22-Sep-20",
+    "open": 205.06,
+    "dateClose": "22-Jan-21",
+    "close": 225.95,
+    "rsi": 47.71
+  },
+  {
+    "dateOpen": "23-Sep-20",
+    "open": 207.9,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 42.01
+  },
+  {
+    "dateOpen": "24-Sep-20",
+    "open": 199.85,
+    "dateClose": "12-Oct-20",
+    "close": 221.4,
+    "rsi": 44.72
+  },
+  {
+    "dateOpen": "25-Sep-20",
+    "open": 203.55,
+    "dateClose": "22-Dec-20",
+    "close": 223.94,
+    "rsi": 49.26
+  },
+  {
+    "dateOpen": "28-Sep-20",
+    "open": 210.88,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 50.79
+  },
+  {
+    "dateOpen": "29-Sep-20",
+    "open": 209.35,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 48.67
+  },
+  {
+    "dateOpen": "30-Sep-20",
+    "open": 207.73,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 51.72
+  },
+  {
+    "dateOpen": "01-Oct-20",
+    "open": 213.49,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 53.78
+  },
+  {
+    "dateOpen": "02-Oct-20",
+    "open": 208.0,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 47.38
+  },
+  {
+    "dateOpen": "05-Oct-20",
+    "open": 207.22,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 51.53
+  },
+  {
+    "dateOpen": "06-Oct-20",
+    "open": 208.82,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 47.25
+  },
+  {
+    "dateOpen": "07-Oct-20",
+    "open": 207.06,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 51.09
+  },
+  {
+    "dateOpen": "08-Oct-20",
+    "open": 210.51,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 51.81
+  },
+  {
+    "dateOpen": "09-Oct-20",
+    "open": 211.23,
+    "dateClose": "27-Jan-21",
+    "close": 232.9,
+    "rsi": 56.62
+  },
+  {
+    "dateOpen": "12-Oct-20",
+    "open": 218.79,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 61.09
+  },
+  {
+    "dateOpen": "13-Oct-20",
+    "open": 222.72,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 62.19
+  },
+  {
+    "dateOpen": "14-Oct-20",
+    "open": 223.0,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 59.71
+  },
+  {
+    "dateOpen": "15-Oct-20",
+    "open": 217.1,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 58.21
+  },
+  {
+    "dateOpen": "16-Oct-20",
+    "open": 220.15,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 58.21
+  },
+  {
+    "dateOpen": "19-Oct-20",
+    "open": 220.42,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 51.41
+  },
+  {
+    "dateOpen": "20-Oct-20",
+    "open": 215.8,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 51.89
+  },
+  {
+    "dateOpen": "21-Oct-20",
+    "open": 213.12,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 52.07
+  },
+  {
+    "dateOpen": "22-Oct-20",
+    "open": 213.93,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 52.18
+  },
+  {
+    "dateOpen": "23-Oct-20",
+    "open": 215.03,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 53.93
+  },
+  {
+    "dateOpen": "26-Oct-20",
+    "open": 213.85,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 45.66
+  },
+  {
+    "dateOpen": "27-Oct-20",
+    "open": 211.59,
+    "dateClose": "27-Jan-21",
+    "close": 232.9,
+    "rsi": 49.92
+  },
+  {
+    "dateOpen": "28-Oct-20",
+    "open": 207.67,
+    "dateClose": "25-Jan-21",
+    "close": 229.53,
+    "rsi": 38.95
+  },
+  {
+    "dateOpen": "29-Oct-20",
+    "open": 204.07,
+    "dateClose": "28-Dec-20",
+    "close": 224.96,
+    "rsi": 41.62
+  },
+  {
+    "dateOpen": "30-Oct-20",
+    "open": 203.5,
+    "dateClose": "22-Dec-20",
+    "close": 223.94,
+    "rsi": 39.56
+  },
+  {
+    "dateOpen": "02-Nov-20",
+    "open": 204.29,
+    "dateClose": "28-Dec-20",
+    "close": 224.96,
+    "rsi": 39.43
+  },
+  {
+    "dateOpen": "03-Nov-20",
+    "open": 203.89,
+    "dateClose": "28-Dec-20",
+    "close": 224.96,
+    "rsi": 45.13
+  },
+  {
+    "dateOpen": "04-Nov-20",
+    "open": 214.02,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 55.98
+  },
+  {
+    "dateOpen": "05-Nov-20",
+    "open": 222.04,
+    "dateClose": "11-Feb-21",
+    "close": 244.49,
+    "rsi": 61.63
+  },
+  {
+    "dateOpen": "06-Nov-20",
+    "open": 222.26,
+    "dateClose": "11-Feb-21",
+    "close": 244.49,
+    "rsi": 61.96
+  },
+  {
+    "dateOpen": "09-Nov-20",
+    "open": 224.44,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 55.62
+  },
+  {
+    "dateOpen": "10-Nov-20",
+    "open": 214.5,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 48.25
+  },
+  {
+    "dateOpen": "11-Nov-20",
+    "open": 212.39,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 53.25
+  },
+  {
+    "dateOpen": "12-Nov-20",
+    "open": 217.21,
+    "dateClose": "01-Feb-21",
+    "close": 239.65,
+    "rsi": 52.16
+  },
+  {
+    "dateOpen": "13-Nov-20",
+    "open": 216.36,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 53.16
+  },
+  {
+    "dateOpen": "16-Nov-20",
+    "open": 214.87,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 53.85
+  },
+  {
+    "dateOpen": "17-Nov-20",
+    "open": 216.1,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 50.73
+  },
+  {
+    "dateOpen": "18-Nov-20",
+    "open": 213.65,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 47.15
+  },
+  {
+    "dateOpen": "19-Nov-20",
+    "open": 211.38,
+    "dateClose": "27-Jan-21",
+    "close": 232.9,
+    "rsi": 48.69
+  },
+  {
+    "dateOpen": "20-Nov-20",
+    "open": 212.2,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 46.47
+  },
+  {
+    "dateOpen": "23-Nov-20",
+    "open": 210.95,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 46.16
+  },
+  {
+    "dateOpen": "24-Nov-20",
+    "open": 209.59,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 50.93
+  },
+  {
+    "dateOpen": "25-Nov-20",
+    "open": 215.11,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 50.94
+  },
+  {
+    "dateOpen": "27-Nov-20",
+    "open": 214.85,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 52.7
+  },
+  {
+    "dateOpen": "30-Nov-20",
+    "open": 214.1,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 51.02
+  },
+  {
+    "dateOpen": "01-Dec-20",
+    "open": 214.51,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 53.94
+  },
+  {
+    "dateOpen": "02-Dec-20",
+    "open": 214.88,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 52.61
+  },
+  {
+    "dateOpen": "03-Dec-20",
+    "open": 214.61,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 50.8
+  },
+  {
+    "dateOpen": "04-Dec-20",
+    "open": 214.22,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 51.0
+  },
+  {
+    "dateOpen": "07-Dec-20",
+    "open": 214.37,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 50.87
+  },
+  {
+    "dateOpen": "08-Dec-20",
+    "open": 213.97,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 53.87
+  },
+  {
+    "dateOpen": "09-Dec-20",
+    "open": 215.16,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 46.4
+  },
+  {
+    "dateOpen": "10-Dec-20",
+    "open": 211.77,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 44.39
+  },
+  {
+    "dateOpen": "11-Dec-20",
+    "open": 210.05,
+    "dateClose": "26-Jan-21",
+    "close": 232.33,
+    "rsi": 49.45
+  },
+  {
+    "dateOpen": "14-Dec-20",
+    "open": 213.1,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 51.09
+  },
+  {
+    "dateOpen": "15-Dec-20",
+    "open": 215.17,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 50.96
+  },
+  {
+    "dateOpen": "16-Dec-20",
+    "open": 214.75,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 59.33
+  },
+  {
+    "dateOpen": "17-Dec-20",
+    "open": 219.87,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 59.54
+  },
+  {
+    "dateOpen": "18-Dec-20",
+    "open": 218.59,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 57.7
+  },
+  {
+    "dateOpen": "21-Dec-20",
+    "open": 217.55,
+    "dateClose": "01-Feb-21",
+    "close": 239.65,
+    "rsi": 63.53
+  },
+  {
+    "dateOpen": "22-Dec-20",
+    "open": 222.69,
+    "dateClose": "12-Feb-21",
+    "close": 244.99,
+    "rsi": 65.27
+  },
+  {
+    "dateOpen": "23-Dec-20",
+    "open": 223.11,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 58.75
+  },
+  {
+    "dateOpen": "24-Dec-20",
+    "open": 221.42,
+    "dateClose": "09-Feb-21",
+    "close": 243.77,
+    "rsi": 61.22
+  },
+  {
+    "dateOpen": "28-Dec-20",
+    "open": 224.45,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 64.17
+  },
+  {
+    "dateOpen": "29-Dec-20",
+    "open": 226.31,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 62.3
+  },
+  {
+    "dateOpen": "30-Dec-20",
+    "open": 225.23,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 56.85
+  },
+  {
+    "dateOpen": "31-Dec-20",
+    "open": 221.7,
+    "dateClose": "11-Feb-21",
+    "close": 244.49,
+    "rsi": 58.03
+  },
+  {
+    "dateOpen": "04-Jan-21",
+    "open": 222.53,
+    "dateClose": "12-Feb-21",
+    "close": 244.99,
+    "rsi": 48.81
+  },
+  {
+    "dateOpen": "05-Jan-21",
+    "open": 217.26,
+    "dateClose": "01-Feb-21",
+    "close": 239.65,
+    "rsi": 49.19
+  },
+  {
+    "dateOpen": "06-Jan-21",
+    "open": 212.17,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 40.37
+  },
+  {
+    "dateOpen": "07-Jan-21",
+    "open": 214.04,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 50.58
+  },
+  {
+    "dateOpen": "08-Jan-21",
+    "open": 218.68,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 52.5
+  },
+  {
+    "dateOpen": "11-Jan-21",
+    "open": 218.47,
+    "dateClose": "03-Feb-21",
+    "close": 243.0,
+    "rsi": 49.19
+  },
+  {
+    "dateOpen": "12-Jan-21",
+    "open": 216.5,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 45.48
+  },
+  {
+    "dateOpen": "13-Jan-21",
+    "open": 214.02,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 47.82
+  },
+  {
+    "dateOpen": "14-Jan-21",
+    "open": 215.91,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 43.13
+  },
+  {
+    "dateOpen": "15-Jan-21",
+    "open": 213.52,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 42.63
+  },
+  {
+    "dateOpen": "19-Jan-21",
+    "open": 213.75,
+    "dateClose": "28-Jan-21",
+    "close": 238.93,
+    "rsi": 49.15
+  },
+  {
+    "dateOpen": "20-Jan-21",
+    "open": 217.7,
+    "dateClose": "01-Feb-21",
+    "close": 239.65,
+    "rsi": 59.48
+  },
+  {
+    "dateOpen": "21-Jan-21",
+    "open": 224.7,
+    "dateClose": "05-Apr-21",
+    "close": 249.07,
+    "rsi": 60.18
+  },
+  {
+    "dateOpen": "22-Jan-21",
+    "open": 227.08,
+    "dateClose": "07-Apr-21",
+    "close": 249.9,
+    "rsi": 61.29
+  },
+  {
+    "dateOpen": "25-Jan-21",
+    "open": 229.12,
+    "dateClose": "08-Apr-21",
+    "close": 253.25,
+    "rsi": 65.12
+  },
+  {
+    "dateOpen": "26-Jan-21",
+    "open": 231.86,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 67.81
+  },
+  {
+    "dateOpen": "27-Jan-21",
+    "open": 238.0,
+    "dateClose": "27-Apr-21",
+    "close": 261.97,
+    "rsi": 68.34
+  },
+  {
+    "dateOpen": "28-Jan-21",
+    "open": 235.61,
+    "dateClose": "15-Apr-21",
+    "close": 259.5,
+    "rsi": 73.38
+  },
+  {
+    "dateOpen": "29-Jan-21",
+    "open": 235.99,
+    "dateClose": "16-Apr-21",
+    "close": 260.74,
+    "rsi": 61.25
+  },
+  {
+    "dateOpen": "01-Feb-21",
+    "open": 235.06,
+    "dateClose": "15-Apr-21",
+    "close": 259.5,
+    "rsi": 67.61
+  },
+  {
+    "dateOpen": "02-Feb-21",
+    "open": 241.3,
+    "dateClose": "22-Jun-21",
+    "close": 265.51,
+    "rsi": 67.39
+  },
+  {
+    "dateOpen": "03-Feb-21",
+    "open": 239.57,
+    "dateClose": "22-Jun-21",
+    "close": 265.51,
+    "rsi": 69.98
+  },
+  {
+    "dateOpen": "04-Feb-21",
+    "open": 242.66,
+    "dateClose": "28-Jun-21",
+    "close": 268.72,
+    "rsi": 68.32
+  },
+  {
+    "dateOpen": "05-Feb-21",
+    "open": 242.23,
+    "dateClose": "24-Jun-21",
+    "close": 266.69,
+    "rsi": 68.48
+  },
+  {
+    "dateOpen": "08-Feb-21",
+    "open": 243.15,
+    "dateClose": "28-Jun-21",
+    "close": 268.72,
+    "rsi": 68.71
+  },
+  {
+    "dateOpen": "09-Feb-21",
+    "open": 241.87,
+    "dateClose": "24-Jun-21",
+    "close": 266.69,
+    "rsi": 69.87
+  },
+  {
+    "dateOpen": "10-Feb-21",
+    "open": 245.0,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 67.89
+  },
+  {
+    "dateOpen": "11-Feb-21",
+    "open": 244.78,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 69.52
+  },
+  {
+    "dateOpen": "12-Feb-21",
+    "open": 243.93,
+    "dateClose": "28-Jun-21",
+    "close": 268.72,
+    "rsi": 70.01
+  },
+  {
+    "dateOpen": "16-Feb-21",
+    "open": 245.03,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 67.02
+  },
+  {
+    "dateOpen": "17-Feb-21",
+    "open": 241.32,
+    "dateClose": "22-Jun-21",
+    "close": 265.51,
+    "rsi": 67.6
+  },
+  {
+    "dateOpen": "18-Feb-21",
+    "open": 241.8,
+    "dateClose": "24-Jun-21",
+    "close": 266.69,
+    "rsi": 66.56
+  },
+  {
+    "dateOpen": "19-Feb-21",
+    "open": 243.75,
+    "dateClose": "28-Jun-21",
+    "close": 268.72,
+    "rsi": 59.81
+  },
+  {
+    "dateOpen": "22-Feb-21",
+    "open": 237.42,
+    "dateClose": "26-Apr-21",
+    "close": 261.55,
+    "rsi": 47.83
+  },
+  {
+    "dateOpen": "23-Feb-21",
+    "open": 230.33,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 45.93
+  },
+  {
+    "dateOpen": "24-Feb-21",
+    "open": 230.01,
+    "dateClose": "08-Apr-21",
+    "close": 253.25,
+    "rsi": 48.21
+  },
+  {
+    "dateOpen": "25-Feb-21",
+    "open": 232.08,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 40.25
+  },
+  {
+    "dateOpen": "26-Feb-21",
+    "open": 231.53,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 46.1
+  },
+  {
+    "dateOpen": "01-Mar-21",
+    "open": 235.9,
+    "dateClose": "15-Apr-21",
+    "close": 259.5,
+    "rsi": 52.79
+  },
+  {
+    "dateOpen": "02-Mar-21",
+    "open": 237.01,
+    "dateClose": "16-Apr-21",
+    "close": 260.74,
+    "rsi": 48.43
+  },
+  {
+    "dateOpen": "03-Mar-21",
+    "open": 232.16,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 40.94
+  },
+  {
+    "dateOpen": "04-Mar-21",
+    "open": 226.74,
+    "dateClose": "07-Apr-21",
+    "close": 249.9,
+    "rsi": 40.07
+  },
+  {
+    "dateOpen": "05-Mar-21",
+    "open": 229.52,
+    "dateClose": "08-Apr-21",
+    "close": 253.25,
+    "rsi": 47.21
+  },
+  {
+    "dateOpen": "08-Mar-21",
+    "open": 231.37,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 42.49
+  },
+  {
+    "dateOpen": "09-Mar-21",
+    "open": 232.88,
+    "dateClose": "13-Apr-21",
+    "close": 258.49,
+    "rsi": 50.57
+  },
+  {
+    "dateOpen": "10-Mar-21",
+    "open": 237.0,
+    "dateClose": "16-Apr-21",
+    "close": 260.74,
+    "rsi": 48.99
+  },
+  {
+    "dateOpen": "11-Mar-21",
+    "open": 234.96,
+    "dateClose": "13-Apr-21",
+    "close": 258.49,
+    "rsi": 54.31
+  },
+  {
+    "dateOpen": "12-Mar-21",
+    "open": 234.01,
+    "dateClose": "13-Apr-21",
+    "close": 258.49,
+    "rsi": 52.58
+  },
+  {
+    "dateOpen": "15-Mar-21",
+    "open": 234.96,
+    "dateClose": "13-Apr-21",
+    "close": 258.49,
+    "rsi": 51.38
+  },
+  {
+    "dateOpen": "16-Mar-21",
+    "open": 236.28,
+    "dateClose": "16-Apr-21",
+    "close": 260.74,
+    "rsi": 54.8
+  },
+  {
+    "dateOpen": "17-Mar-21",
+    "open": 236.15,
+    "dateClose": "16-Apr-21",
+    "close": 260.74,
+    "rsi": 53.86
+  },
+  {
+    "dateOpen": "18-Mar-21",
+    "open": 232.56,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 45.84
+  },
+  {
+    "dateOpen": "19-Mar-21",
+    "open": 231.02,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 45.41
+  },
+  {
+    "dateOpen": "22-Mar-21",
+    "open": 230.27,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 52.64
+  },
+  {
+    "dateOpen": "23-Mar-21",
+    "open": 237.49,
+    "dateClose": "26-Apr-21",
+    "close": 261.55,
+    "rsi": 54.47
+  },
+  {
+    "dateOpen": "24-Mar-21",
+    "open": 237.85,
+    "dateClose": "27-Apr-21",
+    "close": 261.97,
+    "rsi": 51.61
+  },
+  {
+    "dateOpen": "25-Mar-21",
+    "open": 235.3,
+    "dateClose": "15-Apr-21",
+    "close": 259.5,
+    "rsi": 47.64
+  },
+  {
+    "dateOpen": "26-Mar-21",
+    "open": 231.55,
+    "dateClose": "09-Apr-21",
+    "close": 255.85,
+    "rsi": 52.83
+  },
+  {
+    "dateOpen": "29-Mar-21",
+    "open": 236.59,
+    "dateClose": "16-Apr-21",
+    "close": 260.74,
+    "rsi": 51.19
+  },
+  {
+    "dateOpen": "30-Mar-21",
+    "open": 233.53,
+    "dateClose": "13-Apr-21",
+    "close": 258.49,
+    "rsi": 46.91
+  },
+  {
+    "dateOpen": "31-Mar-21",
+    "open": 232.91,
+    "dateClose": "13-Apr-21",
+    "close": 258.49,
+    "rsi": 51.92
+  },
+  {
+    "dateOpen": "01-Apr-21",
+    "open": 238.47,
+    "dateClose": "21-Jun-21",
+    "close": 262.63,
+    "rsi": 58.91
+  },
+  {
+    "dateOpen": "05-Apr-21",
+    "open": 242.76,
+    "dateClose": "28-Jun-21",
+    "close": 268.72,
+    "rsi": 64.58
+  },
+  {
+    "dateOpen": "06-Apr-21",
+    "open": 247.61,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 62.9
+  },
+  {
+    "dateOpen": "07-Apr-21",
+    "open": 247.81,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 64.58
+  },
+  {
+    "dateOpen": "08-Apr-21",
+    "open": 252.77,
+    "dateClose": "07-Jul-21",
+    "close": 279.93,
+    "rsi": 67.2
+  },
+  {
+    "dateOpen": "09-Apr-21",
+    "open": 252.87,
+    "dateClose": "07-Jul-21",
+    "close": 279.93,
+    "rsi": 69.11
+  },
+  {
+    "dateOpen": "12-Apr-21",
+    "open": 254.71,
+    "dateClose": "13-Jul-21",
+    "close": 280.98,
+    "rsi": 69.15
+  },
+  {
+    "dateOpen": "13-Apr-21",
+    "open": 257.26,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 71.09
+  },
+  {
+    "dateOpen": "14-Apr-21",
+    "open": 257.48,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 66.07
+  },
+  {
+    "dateOpen": "15-Apr-21",
+    "open": 257.93,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 69.23
+  },
+  {
+    "dateOpen": "16-Apr-21",
+    "open": 259.47,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 70.17
+  },
+  {
+    "dateOpen": "19-Apr-21",
+    "open": 260.19,
+    "dateClose": "23-Jul-21",
+    "close": 289.67,
+    "rsi": 66.61
+  },
+  {
+    "dateOpen": "20-Apr-21",
+    "open": 257.82,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 65.75
+  },
+  {
+    "dateOpen": "21-Apr-21",
+    "open": 258.94,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 67.91
+  },
+  {
+    "dateOpen": "22-Apr-21",
+    "open": 260.21,
+    "dateClose": "23-Jul-21",
+    "close": 289.67,
+    "rsi": 61.74
+  },
+  {
+    "dateOpen": "23-Apr-21",
+    "open": 257.88,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 65.66
+  },
+  {
+    "dateOpen": "26-Apr-21",
+    "open": 261.66,
+    "dateClose": "23-Jul-21",
+    "close": 289.67,
+    "rsi": 66.04
+  },
+  {
+    "dateOpen": "27-Apr-21",
+    "open": 261.58,
+    "dateClose": "23-Jul-21",
+    "close": 289.67,
+    "rsi": 66.46
+  },
+  {
+    "dateOpen": "28-Apr-21",
+    "open": 256.08,
+    "dateClose": "14-Jul-21",
+    "close": 282.51,
+    "rsi": 53.91
+  },
+  {
+    "dateOpen": "29-Apr-21",
+    "open": 255.46,
+    "dateClose": "14-Jul-21",
+    "close": 282.51,
+    "rsi": 51.04
+  },
+  {
+    "dateOpen": "30-Apr-21",
+    "open": 249.74,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 50.57
+  },
+  {
+    "dateOpen": "03-May-21",
+    "open": 253.4,
+    "dateClose": "07-Jul-21",
+    "close": 279.93,
+    "rsi": 50.09
+  },
+  {
+    "dateOpen": "04-May-21",
+    "open": 250.97,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 44.34
+  },
+  {
+    "dateOpen": "05-May-21",
+    "open": 249.06,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 42.63
+  },
+  {
+    "dateOpen": "06-May-21",
+    "open": 246.45,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 47.97
+  },
+  {
+    "dateOpen": "07-May-21",
+    "open": 252.15,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 51.99
+  },
+  {
+    "dateOpen": "10-May-21",
+    "open": 250.87,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 44.78
+  },
+  {
+    "dateOpen": "11-May-21",
+    "open": 244.55,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 43.61
+  },
+  {
+    "dateOpen": "12-May-21",
+    "open": 242.17,
+    "dateClose": "24-Jun-21",
+    "close": 266.69,
+    "rsi": 35.9
+  },
+  {
+    "dateOpen": "13-May-21",
+    "open": 241.8,
+    "dateClose": "24-Jun-21",
+    "close": 266.69,
+    "rsi": 42.05
+  },
+  {
+    "dateOpen": "14-May-21",
+    "open": 245.58,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 48.77
+  },
+  {
+    "dateOpen": "17-May-21",
+    "open": 246.55,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 45.47
+  },
+  {
+    "dateOpen": "18-May-21",
+    "open": 246.27,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 43.25
+  },
+  {
+    "dateOpen": "19-May-21",
+    "open": 239.31,
+    "dateClose": "22-Jun-21",
+    "close": 265.51,
+    "rsi": 43.31
+  },
+  {
+    "dateOpen": "20-May-21",
+    "open": 243.96,
+    "dateClose": "28-Jun-21",
+    "close": 268.72,
+    "rsi": 48.02
+  },
+  {
+    "dateOpen": "21-May-21",
+    "open": 247.57,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 46.4
+  },
+  {
+    "dateOpen": "24-May-21",
+    "open": 247.79,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 53.62
+  },
+  {
+    "dateOpen": "25-May-21",
+    "open": 251.77,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 54.72
+  },
+  {
+    "dateOpen": "26-May-21",
+    "open": 251.43,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 54.38
+  },
+  {
+    "dateOpen": "27-May-21",
+    "open": 251.17,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 51.14
+  },
+  {
+    "dateOpen": "28-May-21",
+    "open": 251.0,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 51.66
+  },
+  {
+    "dateOpen": "01-Jun-21",
+    "open": 251.23,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 48.21
+  },
+  {
+    "dateOpen": "02-Jun-21",
+    "open": 248.13,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 48.06
+  },
+  {
+    "dateOpen": "03-Jun-21",
+    "open": 245.22,
+    "dateClose": "29-Jun-21",
+    "close": 271.4,
+    "rsi": 45.61
+  },
+  {
+    "dateOpen": "04-Jun-21",
+    "open": 247.76,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 53.74
+  },
+  {
+    "dateOpen": "07-Jun-21",
+    "open": 249.98,
+    "dateClose": "02-Jul-21",
+    "close": 277.65,
+    "rsi": 57.78
+  },
+  {
+    "dateOpen": "08-Jun-21",
+    "open": 255.16,
+    "dateClose": "13-Jul-21",
+    "close": 280.98,
+    "rsi": 55.63
+  },
+  {
+    "dateOpen": "09-Jun-21",
+    "open": 253.81,
+    "dateClose": "07-Jul-21",
+    "close": 279.93,
+    "rsi": 57.04
+  },
+  {
+    "dateOpen": "10-Jun-21",
+    "open": 254.29,
+    "dateClose": "07-Jul-21",
+    "close": 279.93,
+    "rsi": 61.74
+  },
+  {
+    "dateOpen": "11-Jun-21",
+    "open": 257.99,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 62.53
+  },
+  {
+    "dateOpen": "14-Jun-21",
+    "open": 257.9,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 64.92
+  },
+  {
+    "dateOpen": "15-Jun-21",
+    "open": 259.77,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 61.68
+  },
+  {
+    "dateOpen": "16-Jun-21",
+    "open": 259.4,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 59.63
+  },
+  {
+    "dateOpen": "17-Jun-21",
+    "open": 256.07,
+    "dateClose": "14-Jul-21",
+    "close": 282.51,
+    "rsi": 64.23
+  },
+  {
+    "dateOpen": "18-Jun-21",
+    "open": 259.63,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 61.1
+  },
+  {
+    "dateOpen": "21-Jun-21",
+    "open": 259.82,
+    "dateClose": "22-Jul-21",
+    "close": 286.14,
+    "rsi": 65.09
+  },
+  {
+    "dateOpen": "22-Jun-21",
+    "open": 262.72,
+    "dateClose": "23-Jul-21",
+    "close": 289.67,
+    "rsi": 68.25
+  },
+  {
+    "dateOpen": "23-Jun-21",
+    "open": 265.99,
+    "dateClose": "13-Aug-21",
+    "close": 292.85,
+    "rsi": 67.7
+  },
+  {
+    "dateOpen": "24-Jun-21",
+    "open": 266.16,
+    "dateClose": "13-Aug-21",
+    "close": 292.85,
+    "rsi": 69.28
+  },
+  {
+    "dateOpen": "25-Jun-21",
+    "open": 266.23,
+    "dateClose": "16-Aug-21",
+    "close": 294.6,
+    "rsi": 65.24
+  },
+  {
+    "dateOpen": "28-Jun-21",
+    "open": 266.19,
+    "dateClose": "13-Aug-21",
+    "close": 292.85,
+    "rsi": 69.48
+  },
+  {
+    "dateOpen": "29-Jun-21",
+    "open": 268.87,
+    "dateClose": "19-Aug-21",
+    "close": 296.77,
+    "rsi": 72.13
+  },
+  {
+    "dateOpen": "30-Jun-21",
+    "open": 270.69,
+    "dateClose": "20-Aug-21",
+    "close": 304.36,
+    "rsi": 70.9
+  },
+  {
+    "dateOpen": "01-Jul-21",
+    "open": 269.61,
+    "dateClose": "19-Aug-21",
+    "close": 296.77,
+    "rsi": 71.63
+  },
+  {
+    "dateOpen": "02-Jul-21",
+    "open": 272.82,
+    "dateClose": "20-Aug-21",
+    "close": 304.36,
+    "rsi": 77.02
+  },
+  {
+    "dateOpen": "06-Jul-21",
+    "open": 278.03,
+    "dateClose": "18-Oct-21",
+    "close": 307.29,
+    "rsi": 77.03
+  },
+  {
+    "dateOpen": "07-Jul-21",
+    "open": 279.4,
+    "dateClose": "19-Oct-21",
+    "close": 308.23,
+    "rsi": 78.79
+  },
+  {
+    "dateOpen": "08-Jul-21",
+    "open": 276.9,
+    "dateClose": "23-Aug-21",
+    "close": 304.65,
+    "rsi": 72.22
+  },
+  {
+    "dateOpen": "09-Jul-21",
+    "open": 275.72,
+    "dateClose": "20-Aug-21",
+    "close": 304.36,
+    "rsi": 72.73
+  },
+  {
+    "dateOpen": "12-Jul-21",
+    "open": 279.16,
+    "dateClose": "18-Oct-21",
+    "close": 307.29,
+    "rsi": 71.06
+  },
+  {
+    "dateOpen": "13-Jul-21",
+    "open": 277.52,
+    "dateClose": "18-Oct-21",
+    "close": 307.29,
+    "rsi": 74.74
+  },
+  {
+    "dateOpen": "14-Jul-21",
+    "open": 282.35,
+    "dateClose": "21-Oct-21",
+    "close": 310.76,
+    "rsi": 76.11
+  },
+  {
+    "dateOpen": "15-Jul-21",
+    "open": 282.0,
+    "dateClose": "21-Oct-21",
+    "close": 310.76,
+    "rsi": 72.04
+  },
+  {
+    "dateOpen": "16-Jul-21",
+    "open": 282.07,
+    "dateClose": "21-Oct-21",
+    "close": 310.76,
+    "rsi": 71.27
+  },
+  {
+    "dateOpen": "19-Jul-21",
+    "open": 278.93,
+    "dateClose": "18-Oct-21",
+    "close": 307.29,
+    "rsi": 61.72
+  },
+  {
+    "dateOpen": "20-Jul-21",
+    "open": 278.03,
+    "dateClose": "18-Oct-21",
+    "close": 307.29,
+    "rsi": 64.85
+  },
+  {
+    "dateOpen": "21-Jul-21",
+    "open": 278.9,
+    "dateClose": "18-Oct-21",
+    "close": 307.29,
+    "rsi": 67.43
+  },
+  {
+    "dateOpen": "22-Jul-21",
+    "open": 283.84,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 72.41
+  },
+  {
+    "dateOpen": "23-Jul-21",
+    "open": 287.37,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 75.43
+  },
+  {
+    "dateOpen": "26-Jul-21",
+    "open": 289.0,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 73.9
+  },
+  {
+    "dateOpen": "27-Jul-21",
+    "open": 289.43,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 67.91
+  },
+  {
+    "dateOpen": "28-Jul-21",
+    "open": 288.99,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 67.16
+  },
+  {
+    "dateOpen": "29-Jul-21",
+    "open": 286.24,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 67.5
+  },
+  {
+    "dateOpen": "30-Jul-21",
+    "open": 285.17,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 63.51
+  },
+  {
+    "dateOpen": "02-Aug-21",
+    "open": 286.36,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 63.28
+  },
+  {
+    "dateOpen": "03-Aug-21",
+    "open": 285.42,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 66.58
+  },
+  {
+    "dateOpen": "04-Aug-21",
+    "open": 286.22,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 64.91
+  },
+  {
+    "dateOpen": "05-Aug-21",
+    "open": 286.88,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 69.03
+  },
+  {
+    "dateOpen": "06-Aug-21",
+    "open": 288.51,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 68.86
+  },
+  {
+    "dateOpen": "09-Aug-21",
+    "open": 289.75,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 65.52
+  },
+  {
+    "dateOpen": "10-Aug-21",
+    "open": 288.8,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 60.25
+  },
+  {
+    "dateOpen": "11-Aug-21",
+    "open": 287.21,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 61.16
+  },
+  {
+    "dateOpen": "12-Aug-21",
+    "open": 286.63,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 65.87
+  },
+  {
+    "dateOpen": "13-Aug-21",
+    "open": 289.48,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 70.02
+  },
+  {
+    "dateOpen": "16-Aug-21",
+    "open": 293.19,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 72.13
+  },
+  {
+    "dateOpen": "17-Aug-21",
+    "open": 292.39,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 67.68
+  },
+  {
+    "dateOpen": "18-Aug-21",
+    "open": 292.04,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 61.39
+  },
+  {
+    "dateOpen": "19-Aug-21",
+    "open": 288.69,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 69.29
+  },
+  {
+    "dateOpen": "20-Aug-21",
+    "open": 299.72,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 75.96
+  },
+  {
+    "dateOpen": "23-Aug-21",
+    "open": 303.25,
+    "dateClose": "03-Nov-21",
+    "close": 334.0,
+    "rsi": 76.17
+  },
+  {
+    "dateOpen": "24-Aug-21",
+    "open": 305.02,
+    "dateClose": "04-Nov-21",
+    "close": 336.44,
+    "rsi": 71.41
+  },
+  {
+    "dateOpen": "25-Aug-21",
+    "open": 304.3,
+    "dateClose": "04-Nov-21",
+    "close": 336.44,
+    "rsi": 69.99
+  },
+  {
+    "dateOpen": "26-Aug-21",
+    "open": 300.99,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 63.5
+  },
+  {
+    "dateOpen": "27-Aug-21",
+    "open": 298.99,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 64.27
+  },
+  {
+    "dateOpen": "30-Aug-21",
+    "open": 301.12,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 68.64
+  },
+  {
+    "dateOpen": "31-Aug-21",
+    "open": 304.42,
+    "dateClose": "04-Nov-21",
+    "close": 336.44,
+    "rsi": 64.86
+  },
+  {
+    "dateOpen": "01-Sep-21",
+    "open": 302.87,
+    "dateClose": "03-Nov-21",
+    "close": 334.0,
+    "rsi": 64.75
+  },
+  {
+    "dateOpen": "02-Sep-21",
+    "open": 302.2,
+    "dateClose": "02-Nov-21",
+    "close": 333.13,
+    "rsi": 63.15
+  },
+  {
+    "dateOpen": "03-Sep-21",
+    "open": 300.99,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 63.12
+  },
+  {
+    "dateOpen": "07-Sep-21",
+    "open": 301.01,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 60.67
+  },
+  {
+    "dateOpen": "08-Sep-21",
+    "open": 299.78,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 60.72
+  },
+  {
+    "dateOpen": "09-Sep-21",
+    "open": 300.82,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 53.31
+  },
+  {
+    "dateOpen": "10-Sep-21",
+    "open": 298.42,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 49.9
+  },
+  {
+    "dateOpen": "13-Sep-21",
+    "open": 297.55,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 52.62
+  },
+  {
+    "dateOpen": "14-Sep-21",
+    "open": 299.56,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 57.98
+  },
+  {
+    "dateOpen": "15-Sep-21",
+    "open": 303.26,
+    "dateClose": "03-Nov-21",
+    "close": 334.0,
+    "rsi": 65.52
+  },
+  {
+    "dateOpen": "16-Sep-21",
+    "open": 303.76,
+    "dateClose": "04-Nov-21",
+    "close": 336.44,
+    "rsi": 66.05
+  },
+  {
+    "dateOpen": "17-Sep-21",
+    "open": 304.17,
+    "dateClose": "04-Nov-21",
+    "close": 336.44,
+    "rsi": 54.22
+  },
+  {
+    "dateOpen": "20-Sep-21",
+    "open": 296.33,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 45.15
+  },
+  {
+    "dateOpen": "21-Sep-21",
+    "open": 295.69,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 46.02
+  },
+  {
+    "dateOpen": "22-Sep-21",
+    "open": 296.73,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 52.21
+  },
+  {
+    "dateOpen": "23-Sep-21",
+    "open": 298.85,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 53.7
+  },
+  {
+    "dateOpen": "24-Sep-21",
+    "open": 298.23,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 53.31
+  },
+  {
+    "dateOpen": "27-Sep-21",
+    "open": 296.14,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 44.85
+  },
+  {
+    "dateOpen": "28-Sep-21",
+    "open": 289.8,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 33.18
+  },
+  {
+    "dateOpen": "29-Sep-21",
+    "open": 285.1,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 34.01
+  },
+  {
+    "dateOpen": "30-Sep-21",
+    "open": 285.71,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 32.14
+  },
+  {
+    "dateOpen": "01-Oct-21",
+    "open": 282.12,
+    "dateClose": "21-Oct-21",
+    "close": 310.76,
+    "rsi": 43.66
+  },
+  {
+    "dateOpen": "04-Oct-21",
+    "open": 287.4,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 37.88
+  },
+  {
+    "dateOpen": "05-Oct-21",
+    "open": 284.05,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 45.24
+  },
+  {
+    "dateOpen": "06-Oct-21",
+    "open": 285.78,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 50.14
+  },
+  {
+    "dateOpen": "07-Oct-21",
+    "open": 295.18,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 51.99
+  },
+  {
+    "dateOpen": "08-Oct-21",
+    "open": 296.22,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 51.99
+  },
+  {
+    "dateOpen": "11-Oct-21",
+    "open": 292.92,
+    "dateClose": "27-Oct-21",
+    "close": 323.17,
+    "rsi": 51.21
+  },
+  {
+    "dateOpen": "12-Oct-21",
+    "open": 295.34,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 49.45
+  },
+  {
+    "dateOpen": "13-Oct-21",
+    "open": 294.91,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 53.78
+  },
+  {
+    "dateOpen": "14-Oct-21",
+    "open": 299.21,
+    "dateClose": "29-Oct-21",
+    "close": 331.62,
+    "rsi": 60.6
+  },
+  {
+    "dateOpen": "15-Oct-21",
+    "open": 302.34,
+    "dateClose": "02-Nov-21",
+    "close": 333.13,
+    "rsi": 61.97
+  },
+  {
+    "dateOpen": "18-Oct-21",
+    "open": 303.57,
+    "dateClose": "03-Nov-21",
+    "close": 334.0,
+    "rsi": 64.75
+  },
+  {
+    "dateOpen": "19-Oct-21",
+    "open": 308.35,
+    "dateClose": "16-Nov-21",
+    "close": 339.51,
+    "rsi": 65.58
+  },
+  {
+    "dateOpen": "20-Oct-21",
+    "open": 309.21,
+    "dateClose": "18-Nov-21",
+    "close": 341.27,
+    "rsi": 64.16
+  },
+  {
+    "dateOpen": "21-Oct-21",
+    "open": 307.17,
+    "dateClose": "16-Nov-21",
+    "close": 339.51,
+    "rsi": 67.27
+  },
+  {
+    "dateOpen": "22-Oct-21",
+    "open": 310.4,
+    "dateClose": "19-Nov-21",
+    "close": 343.11,
+    "rsi": 64.4
+  },
+  {
+    "dateOpen": "25-Oct-21",
+    "open": 309.36,
+    "dateClose": "18-Nov-21",
+    "close": 341.27,
+    "rsi": 62.55
+  },
+  {
+    "dateOpen": "26-Oct-21",
+    "open": 311.0,
+    "dateClose": "19-Nov-21",
+    "close": 343.11,
+    "rsi": 64.65
+  },
+  {
+    "dateOpen": "27-Oct-21",
+    "open": 316.0,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 74.74
+  },
+  {
+    "dateOpen": "28-Oct-21",
+    "open": 324.33,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 75.42
+  },
+  {
+    "dateOpen": "29-Oct-21",
+    "open": 324.13,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 79.15
+  },
+  {
+    "dateOpen": "01-Nov-21",
+    "open": 331.36,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 75.34
+  },
+  {
+    "dateOpen": "02-Nov-21",
+    "open": 330.31,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 77.31
+  },
+  {
+    "dateOpen": "03-Nov-21",
+    "open": 333.9,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 77.75
+  },
+  {
+    "dateOpen": "04-Nov-21",
+    "open": 332.89,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 78.99
+  },
+  {
+    "dateOpen": "05-Nov-21",
+    "open": 338.51,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 78.26
+  },
+  {
+    "dateOpen": "08-Nov-21",
+    "open": 337.3,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 78.77
+  },
+  {
+    "dateOpen": "09-Nov-21",
+    "open": 337.11,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 76.58
+  },
+  {
+    "dateOpen": "10-Nov-21",
+    "open": 334.57,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 66.68
+  },
+  {
+    "dateOpen": "11-Nov-21",
+    "open": 331.25,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 68.08
+  },
+  {
+    "dateOpen": "12-Nov-21",
+    "open": 333.92,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 71.5
+  },
+  {
+    "dateOpen": "15-Nov-21",
+    "open": 337.54,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 70.27
+  },
+  {
+    "dateOpen": "16-Nov-21",
+    "open": 335.68,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 72.92
+  },
+  {
+    "dateOpen": "17-Nov-21",
+    "open": 338.94,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 72.13
+  },
+  {
+    "dateOpen": "18-Nov-21",
+    "open": 338.18,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 73.8
+  },
+  {
+    "dateOpen": "19-Nov-21",
+    "open": 342.64,
+    "dateClose": "20-Nov-23",
+    "close": 377.44,
+    "rsi": 75.18
+  },
+  {
+    "dateOpen": "22-Nov-21",
+    "open": 344.62,
+    "dateClose": "22-Nov-21",
+    "close": 0.0,
+    "rsi": 68.31
+  },
+  {
+    "dateOpen": "23-Nov-21",
+    "open": 337.05,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 64.17
+  },
+  {
+    "dateOpen": "24-Nov-21",
+    "open": 336.28,
+    "dateClose": "14-Nov-23",
+    "close": 370.27,
+    "rsi": 64.42
+  },
+  {
+    "dateOpen": "26-Nov-21",
+    "open": 334.35,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 50.84
+  },
+  {
+    "dateOpen": "29-Nov-21",
+    "open": 334.94,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 58.75
+  },
+  {
+    "dateOpen": "30-Nov-21",
+    "open": 335.32,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 51.06
+  },
+  {
+    "dateOpen": "01-Dec-21",
+    "open": 335.13,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 50.46
+  },
+  {
+    "dateOpen": "02-Dec-21",
+    "open": 330.3,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 49.73
+  },
+  {
+    "dateOpen": "03-Dec-21",
+    "open": 331.99,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 42.47
+  },
+  {
+    "dateOpen": "06-Dec-21",
+    "open": 323.95,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 46.59
+  },
+  {
+    "dateOpen": "07-Dec-21",
+    "open": 331.64,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 55.92
+  },
+  {
+    "dateOpen": "08-Dec-21",
+    "open": 335.31,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 55.97
+  },
+  {
+    "dateOpen": "09-Dec-21",
+    "open": 334.41,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 53.64
+  },
+  {
+    "dateOpen": "10-Dec-21",
+    "open": 334.98,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 62.18
+  },
+  {
+    "dateOpen": "13-Dec-21",
+    "open": 340.68,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 58.33
+  },
+  {
+    "dateOpen": "14-Dec-21",
+    "open": 333.22,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 47.24
+  },
+  {
+    "dateOpen": "15-Dec-21",
+    "open": 328.61,
+    "dateClose": "08-Nov-23",
+    "close": 363.2,
+    "rsi": 52.76
+  },
+  {
+    "dateOpen": "16-Dec-21",
+    "open": 335.71,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 44.94
+  },
+  {
+    "dateOpen": "17-Dec-21",
+    "open": 320.88,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 44.14
+  },
+  {
+    "dateOpen": "20-Dec-21",
+    "open": 320.05,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 41.35
+  },
+  {
+    "dateOpen": "21-Dec-21",
+    "open": 323.29,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 48.06
+  },
+  {
+    "dateOpen": "22-Dec-21",
+    "open": 328.3,
+    "dateClose": "08-Nov-23",
+    "close": 363.2,
+    "rsi": 52.71
+  },
+  {
+    "dateOpen": "23-Dec-21",
+    "open": 332.75,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 53.84
+  },
+  {
+    "dateOpen": "27-Dec-21",
+    "open": 335.46,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 59.27
+  },
+  {
+    "dateOpen": "28-Dec-21",
+    "open": 343.15,
+    "dateClose": "22-Nov-23",
+    "close": 377.85,
+    "rsi": 58.13
+  },
+  {
+    "dateOpen": "29-Dec-21",
+    "open": 341.3,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 58.63
+  },
+  {
+    "dateOpen": "30-Dec-21",
+    "open": 341.91,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 55.93
+  },
+  {
+    "dateOpen": "31-Dec-21",
+    "open": 338.51,
+    "dateClose": "16-Nov-23",
+    "close": 376.17,
+    "rsi": 52.94
+  },
+  {
+    "dateOpen": "03-Jan-22",
+    "open": 335.35,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 51.39
+  },
+  {
+    "dateOpen": "04-Jan-22",
+    "open": 334.83,
+    "dateClose": "10-Nov-23",
+    "close": 369.67,
+    "rsi": 46.07
+  },
+  {
+    "dateOpen": "05-Jan-22",
+    "open": 325.86,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 37.01
+  },
+  {
+    "dateOpen": "06-Jan-22",
+    "open": 313.15,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 35.52
+  },
+  {
+    "dateOpen": "07-Jan-22",
+    "open": 314.15,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 35.7
+  },
+  {
+    "dateOpen": "10-Jan-22",
+    "open": 309.49,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 35.97
+  },
+  {
+    "dateOpen": "11-Jan-22",
+    "open": 313.38,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 36.87
+  },
+  {
+    "dateOpen": "12-Jan-22",
+    "open": 319.67,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 40.98
+  },
+  {
+    "dateOpen": "13-Jan-22",
+    "open": 320.47,
+    "dateClose": "18-Jul-23",
+    "close": 359.49,
+    "rsi": 31.83
+  },
+  {
+    "dateOpen": "14-Jan-22",
+    "open": 304.25,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 37.82
+  },
+  {
+    "dateOpen": "18-Jan-22",
+    "open": 304.07,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 33.4
+  },
+  {
+    "dateOpen": "19-Jan-22",
+    "open": 306.29,
+    "dateClose": "14-Jun-23",
+    "close": 337.34,
+    "rsi": 34.15
+  },
+  {
+    "dateOpen": "20-Jan-22",
+    "open": 309.07,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 33.13
+  },
+  {
+    "dateOpen": "21-Jan-22",
+    "open": 302.69,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 30.03
+  },
+  {
+    "dateOpen": "24-Jan-22",
+    "open": 292.2,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 30.46
+  },
+  {
+    "dateOpen": "25-Jan-22",
+    "open": 291.52,
+    "dateClose": "22-May-23",
+    "close": 321.18,
+    "rsi": 26.42
+  },
+  {
+    "dateOpen": "26-Jan-22",
+    "open": 307.99,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 35.95
+  },
+  {
+    "dateOpen": "27-Jan-22",
+    "open": 302.66,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 39.19
+  },
+  {
+    "dateOpen": "28-Jan-22",
+    "open": 300.23,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 46.94
+  },
+  {
+    "dateOpen": "31-Jan-22",
+    "open": 308.95,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 49.2
+  },
+  {
+    "dateOpen": "01-Feb-22",
+    "open": 310.41,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 47.42
+  },
+  {
+    "dateOpen": "02-Feb-22",
+    "open": 309.63,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 51.41
+  },
+  {
+    "dateOpen": "03-Feb-22",
+    "open": 309.49,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 42.41
+  },
+  {
+    "dateOpen": "04-Feb-22",
+    "open": 300.21,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 46.3
+  },
+  {
+    "dateOpen": "07-Feb-22",
+    "open": 306.17,
+    "dateClose": "14-Jun-23",
+    "close": 337.34,
+    "rsi": 42.98
+  },
+  {
+    "dateOpen": "08-Feb-22",
+    "open": 301.25,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 46.0
+  },
+  {
+    "dateOpen": "09-Feb-22",
+    "open": 309.87,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 51.13
+  },
+  {
+    "dateOpen": "10-Feb-22",
+    "open": 304.04,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 45.01
+  },
+  {
+    "dateOpen": "11-Feb-22",
+    "open": 303.19,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 40.65
+  },
+  {
+    "dateOpen": "14-Feb-22",
+    "open": 293.77,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 40.63
+  },
+  {
+    "dateOpen": "15-Feb-22",
+    "open": 300.01,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 45.21
+  },
+  {
+    "dateOpen": "16-Feb-22",
+    "open": 298.37,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 44.56
+  },
+  {
+    "dateOpen": "17-Feb-22",
+    "open": 296.36,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 39.04
+  },
+  {
+    "dateOpen": "18-Feb-22",
+    "open": 293.05,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 37.44
+  },
+  {
+    "dateOpen": "22-Feb-22",
+    "open": 285.0,
+    "dateClose": "29-Mar-22",
+    "close": 315.41,
+    "rsi": 37.32
+  },
+  {
+    "dateOpen": "23-Feb-22",
+    "open": 290.18,
+    "dateClose": "22-May-23",
+    "close": 321.18,
+    "rsi": 33.15
+  },
+  {
+    "dateOpen": "24-Feb-22",
+    "open": 272.51,
+    "dateClose": "02-Mar-22",
+    "close": 300.19,
+    "rsi": 45.7
+  },
+  {
+    "dateOpen": "25-Feb-22",
+    "open": 295.14,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 47.71
+  },
+  {
+    "dateOpen": "28-Feb-22",
+    "open": 294.31,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 48.82
+  },
+  {
+    "dateOpen": "01-Mar-22",
+    "open": 296.4,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 46.09
+  },
+  {
+    "dateOpen": "02-Mar-22",
+    "open": 295.36,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 50.18
+  },
+  {
+    "dateOpen": "03-Mar-22",
+    "open": 302.89,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 47.04
+  },
+  {
+    "dateOpen": "04-Mar-22",
+    "open": 294.29,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 42.94
+  },
+  {
+    "dateOpen": "07-Mar-22",
+    "open": 288.53,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 36.71
+  },
+  {
+    "dateOpen": "08-Mar-22",
+    "open": 277.8,
+    "dateClose": "28-Mar-22",
+    "close": 310.7,
+    "rsi": 35.18
+  },
+  {
+    "dateOpen": "09-Mar-22",
+    "open": 283.44,
+    "dateClose": "29-Mar-22",
+    "close": 315.41,
+    "rsi": 45.35
+  },
+  {
+    "dateOpen": "10-Mar-22",
+    "open": 283.02,
+    "dateClose": "29-Mar-22",
+    "close": 315.41,
+    "rsi": 43.66
+  },
+  {
+    "dateOpen": "11-Mar-22",
+    "open": 287.96,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 40.56
+  },
+  {
+    "dateOpen": "14-Mar-22",
+    "open": 280.34,
+    "dateClose": "28-Mar-22",
+    "close": 310.7,
+    "rsi": 38.61
+  },
+  {
+    "dateOpen": "15-Mar-22",
+    "open": 280.35,
+    "dateClose": "28-Mar-22",
+    "close": 310.7,
+    "rsi": 46.72
+  },
+  {
+    "dateOpen": "16-Mar-22",
+    "open": 289.11,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 51.4
+  },
+  {
+    "dateOpen": "17-Mar-22",
+    "open": 293.29,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 51.92
+  },
+  {
+    "dateOpen": "18-Mar-22",
+    "open": 295.37,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 55.16
+  },
+  {
+    "dateOpen": "21-Mar-22",
+    "open": 298.89,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 54.2
+  },
+  {
+    "dateOpen": "22-Mar-22",
+    "open": 299.8,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 57.29
+  },
+  {
+    "dateOpen": "23-Mar-22",
+    "open": 300.51,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 53.66
+  },
+  {
+    "dateOpen": "24-Mar-22",
+    "open": 299.14,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 56.65
+  },
+  {
+    "dateOpen": "25-Mar-22",
+    "open": 305.23,
+    "dateClose": "05-Jun-23",
+    "close": 335.94,
+    "rsi": 56.29
+  },
+  {
+    "dateOpen": "28-Mar-22",
+    "open": 304.33,
+    "dateClose": "02-Jun-23",
+    "close": 335.4,
+    "rsi": 60.74
+  },
+  {
+    "dateOpen": "29-Mar-22",
+    "open": 313.91,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 63.42
+  },
+  {
+    "dateOpen": "30-Mar-22",
+    "open": 313.76,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 61.92
+  },
+  {
+    "dateOpen": "31-Mar-22",
+    "open": 313.9,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 56.74
+  },
+  {
+    "dateOpen": "01-Apr-22",
+    "open": 309.37,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 57.51
+  },
+  {
+    "dateOpen": "04-Apr-22",
+    "open": 310.09,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 61.2
+  },
+  {
+    "dateOpen": "05-Apr-22",
+    "open": 313.27,
+    "dateClose": "15-Jun-23",
+    "close": 348.1,
+    "rsi": 57.25
+  },
+  {
+    "dateOpen": "06-Apr-22",
+    "open": 305.19,
+    "dateClose": "05-Jun-23",
+    "close": 335.94,
+    "rsi": 47.96
+  },
+  {
+    "dateOpen": "07-Apr-22",
+    "open": 296.66,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 49.41
+  },
+  {
+    "dateOpen": "08-Apr-22",
+    "open": 300.44,
+    "dateClose": "26-May-23",
+    "close": 332.89,
+    "rsi": 46.15
+  },
+  {
+    "dateOpen": "11-Apr-22",
+    "open": 291.79,
+    "dateClose": "22-May-23",
+    "close": 321.18,
+    "rsi": 38.81
+  },
+  {
+    "dateOpen": "12-Apr-22",
+    "open": 289.24,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 37.07
+  },
+  {
+    "dateOpen": "13-Apr-22",
+    "open": 282.73,
+    "dateClose": "10-May-23",
+    "close": 312.31,
+    "rsi": 41.93
+  },
+  {
+    "dateOpen": "14-Apr-22",
+    "open": 288.09,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 37.55
+  },
+  {
+    "dateOpen": "18-Apr-22",
+    "open": 278.91,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 38.17
+  },
+  {
+    "dateOpen": "19-Apr-22",
+    "open": 279.38,
+    "dateClose": "05-May-23",
+    "close": 310.65,
+    "rsi": 42.41
+  },
+  {
+    "dateOpen": "20-Apr-22",
+    "open": 289.4,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 43.33
+  },
+  {
+    "dateOpen": "21-Apr-22",
+    "open": 288.58,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 39.73
+  },
+  {
+    "dateOpen": "22-Apr-22",
+    "open": 281.68,
+    "dateClose": "05-May-23",
+    "close": 310.65,
+    "rsi": 35.81
+  },
+  {
+    "dateOpen": "25-Apr-22",
+    "open": 273.29,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 41.9
+  },
+  {
+    "dateOpen": "26-Apr-22",
+    "open": 277.5,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 36.11
+  },
+  {
+    "dateOpen": "27-Apr-22",
+    "open": 282.1,
+    "dateClose": "05-May-23",
+    "close": 310.65,
+    "rsi": 46.05
+  },
+  {
+    "dateOpen": "28-Apr-22",
+    "open": 285.19,
+    "dateClose": "17-May-23",
+    "close": 314.0,
+    "rsi": 50.17
+  },
+  {
+    "dateOpen": "29-Apr-22",
+    "open": 288.61,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 43.42
+  },
+  {
+    "dateOpen": "02-May-22",
+    "open": 277.71,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 47.76
+  },
+  {
+    "dateOpen": "03-May-22",
+    "open": 283.96,
+    "dateClose": "17-May-23",
+    "close": 314.0,
+    "rsi": 46.28
+  },
+  {
+    "dateOpen": "04-May-22",
+    "open": 282.59,
+    "dateClose": "10-May-23",
+    "close": 312.31,
+    "rsi": 51.24
+  },
+  {
+    "dateOpen": "05-May-22",
+    "open": 285.54,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 44.44
+  },
+  {
+    "dateOpen": "06-May-22",
+    "open": 274.81,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 43.16
+  },
+  {
+    "dateOpen": "09-May-22",
+    "open": 270.06,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 38.53
+  },
+  {
+    "dateOpen": "10-May-22",
+    "open": 271.69,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 41.79
+  },
+  {
+    "dateOpen": "11-May-22",
+    "open": 265.68,
+    "dateClose": "15-Aug-22",
+    "close": 293.47,
+    "rsi": 37.85
+  },
+  {
+    "dateOpen": "12-May-22",
+    "open": 257.69,
+    "dateClose": "04-Aug-22",
+    "close": 283.65,
+    "rsi": 35.75
+  },
+  {
+    "dateOpen": "13-May-22",
+    "open": 257.35,
+    "dateClose": "04-Aug-22",
+    "close": 283.65,
+    "rsi": 39.75
+  },
+  {
+    "dateOpen": "16-May-22",
+    "open": 259.96,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 40.02
+  },
+  {
+    "dateOpen": "17-May-22",
+    "open": 266.11,
+    "dateClose": "15-Aug-22",
+    "close": 293.47,
+    "rsi": 43.75
+  },
+  {
+    "dateOpen": "18-May-22",
+    "open": 263.0,
+    "dateClose": "12-Aug-22",
+    "close": 291.91,
+    "rsi": 37.7
+  },
+  {
+    "dateOpen": "19-May-22",
+    "open": 253.9,
+    "dateClose": "29-Jul-22",
+    "close": 280.74,
+    "rsi": 37.29
+  },
+  {
+    "dateOpen": "20-May-22",
+    "open": 257.24,
+    "dateClose": "04-Aug-22",
+    "close": 283.65,
+    "rsi": 37.02
+  },
+  {
+    "dateOpen": "23-May-22",
+    "open": 255.49,
+    "dateClose": "03-Aug-22",
+    "close": 282.47,
+    "rsi": 43.15
+  },
+  {
+    "dateOpen": "24-May-22",
+    "open": 257.89,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 42.58
+  },
+  {
+    "dateOpen": "25-May-22",
+    "open": 258.14,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 44.78
+  },
+  {
+    "dateOpen": "26-May-22",
+    "open": 262.27,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 47.32
+  },
+  {
+    "dateOpen": "27-May-22",
+    "open": 268.48,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 52.43
+  },
+  {
+    "dateOpen": "31-May-22",
+    "open": 272.53,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 51.43
+  },
+  {
+    "dateOpen": "01-Jun-22",
+    "open": 275.2,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 51.82
+  },
+  {
+    "dateOpen": "02-Jun-22",
+    "open": 264.45,
+    "dateClose": "12-Aug-22",
+    "close": 291.91,
+    "rsi": 53.44
+  },
+  {
+    "dateOpen": "03-Jun-22",
+    "open": 270.31,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 49.66
+  },
+  {
+    "dateOpen": "06-Jun-22",
+    "open": 272.06,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 48.62
+  },
+  {
+    "dateOpen": "07-Jun-22",
+    "open": 266.64,
+    "dateClose": "15-Aug-22",
+    "close": 293.47,
+    "rsi": 51.81
+  },
+  {
+    "dateOpen": "08-Jun-22",
+    "open": 271.71,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 49.95
+  },
+  {
+    "dateOpen": "09-Jun-22",
+    "open": 267.78,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 45.25
+  },
+  {
+    "dateOpen": "10-Jun-22",
+    "open": 260.58,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 37.3
+  },
+  {
+    "dateOpen": "13-Jun-22",
+    "open": 245.11,
+    "dateClose": "28-Jul-22",
+    "close": 276.41,
+    "rsi": 31.83
+  },
+  {
+    "dateOpen": "14-Jun-22",
+    "open": 243.86,
+    "dateClose": "07-Jul-22",
+    "close": 268.4,
+    "rsi": 34.0
+  },
+  {
+    "dateOpen": "15-Jun-22",
+    "open": 248.31,
+    "dateClose": "28-Jul-22",
+    "close": 276.41,
+    "rsi": 40.62
+  },
+  {
+    "dateOpen": "16-Jun-22",
+    "open": 245.98,
+    "dateClose": "28-Jul-22",
+    "close": 276.41,
+    "rsi": 36.9
+  },
+  {
+    "dateOpen": "17-Jun-22",
+    "open": 244.7,
+    "dateClose": "28-Jul-22",
+    "close": 276.41,
+    "rsi": 39.27
+  },
+  {
+    "dateOpen": "21-Jun-22",
+    "open": 250.26,
+    "dateClose": "28-Jul-22",
+    "close": 276.41,
+    "rsi": 44.37
+  },
+  {
+    "dateOpen": "22-Jun-22",
+    "open": 251.89,
+    "dateClose": "29-Jul-22",
+    "close": 280.74,
+    "rsi": 43.98
+  },
+  {
+    "dateOpen": "23-Jun-22",
+    "open": 255.57,
+    "dateClose": "03-Aug-22",
+    "close": 282.47,
+    "rsi": 48.65
+  },
+  {
+    "dateOpen": "24-Jun-22",
+    "open": 261.81,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 54.89
+  },
+  {
+    "dateOpen": "27-Jun-22",
+    "open": 268.21,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 52.7
+  },
+  {
+    "dateOpen": "28-Jun-22",
+    "open": 263.98,
+    "dateClose": "12-Aug-22",
+    "close": 291.91,
+    "rsi": 46.68
+  },
+  {
+    "dateOpen": "29-Jun-22",
+    "open": 257.59,
+    "dateClose": "04-Aug-22",
+    "close": 283.65,
+    "rsi": 49.47
+  },
+  {
+    "dateOpen": "30-Jun-22",
+    "open": 257.05,
+    "dateClose": "04-Aug-22",
+    "close": 283.65,
+    "rsi": 47.07
+  },
+  {
+    "dateOpen": "01-Jul-22",
+    "open": 256.39,
+    "dateClose": "03-Aug-22",
+    "close": 282.47,
+    "rsi": 49.2
+  },
+  {
+    "dateOpen": "05-Jul-22",
+    "open": 256.16,
+    "dateClose": "03-Aug-22",
+    "close": 282.47,
+    "rsi": 51.7
+  },
+  {
+    "dateOpen": "06-Jul-22",
+    "open": 263.75,
+    "dateClose": "12-Aug-22",
+    "close": 291.91,
+    "rsi": 54.19
+  },
+  {
+    "dateOpen": "07-Jul-22",
+    "open": 265.12,
+    "dateClose": "12-Aug-22",
+    "close": 291.91,
+    "rsi": 55.79
+  },
+  {
+    "dateOpen": "08-Jul-22",
+    "open": 264.79,
+    "dateClose": "12-Aug-22",
+    "close": 291.91,
+    "rsi": 55.09
+  },
+  {
+    "dateOpen": "11-Jul-22",
+    "open": 265.65,
+    "dateClose": "15-Aug-22",
+    "close": 293.47,
+    "rsi": 52.09
+  },
+  {
+    "dateOpen": "12-Jul-22",
+    "open": 265.88,
+    "dateClose": "15-Aug-22",
+    "close": 293.47,
+    "rsi": 43.35
+  },
+  {
+    "dateOpen": "13-Jul-22",
+    "open": 250.19,
+    "dateClose": "28-Jul-22",
+    "close": 276.41,
+    "rsi": 42.68
+  },
+  {
+    "dateOpen": "14-Jul-22",
+    "open": 250.57,
+    "dateClose": "28-Jul-22",
+    "close": 276.41,
+    "rsi": 44.02
+  },
+  {
+    "dateOpen": "15-Jul-22",
+    "open": 255.72,
+    "dateClose": "03-Aug-22",
+    "close": 282.47,
+    "rsi": 46.64
+  },
+  {
+    "dateOpen": "18-Jul-22",
+    "open": 259.75,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 44.54
+  },
+  {
+    "dateOpen": "19-Jul-22",
+    "open": 257.58,
+    "dateClose": "04-Aug-22",
+    "close": 283.65,
+    "rsi": 49.75
+  },
+  {
+    "dateOpen": "20-Jul-22",
+    "open": 259.9,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 52.25
+  },
+  {
+    "dateOpen": "21-Jul-22",
+    "open": 259.79,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 54.54
+  },
+  {
+    "dateOpen": "22-Jul-22",
+    "open": 265.24,
+    "dateClose": "12-Aug-22",
+    "close": 291.91,
+    "rsi": 50.04
+  },
+  {
+    "dateOpen": "25-Jul-22",
+    "open": 261.0,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 48.56
+  },
+  {
+    "dateOpen": "26-Jul-22",
+    "open": 259.86,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 42.46
+  },
+  {
+    "dateOpen": "27-Jul-22",
+    "open": 261.16,
+    "dateClose": "10-Aug-22",
+    "close": 289.16,
+    "rsi": 56.7
+  },
+  {
+    "dateOpen": "28-Jul-22",
+    "open": 269.75,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 61.39
+  },
+  {
+    "dateOpen": "29-Jul-22",
+    "open": 277.7,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 63.77
+  },
+  {
+    "dateOpen": "01-Aug-22",
+    "open": 277.82,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 61.21
+  },
+  {
+    "dateOpen": "02-Aug-22",
+    "open": 276.0,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 58.26
+  },
+  {
+    "dateOpen": "03-Aug-22",
+    "open": 276.76,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 62.88
+  },
+  {
+    "dateOpen": "04-Aug-22",
+    "open": 281.8,
+    "dateClose": "05-May-23",
+    "close": 310.65,
+    "rsi": 63.55
+  },
+  {
+    "dateOpen": "05-Aug-22",
+    "open": 279.15,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 62.78
+  },
+  {
+    "dateOpen": "08-Aug-22",
+    "open": 284.05,
+    "dateClose": "17-May-23",
+    "close": 314.0,
+    "rsi": 60.05
+  },
+  {
+    "dateOpen": "09-Aug-22",
+    "open": 279.64,
+    "dateClose": "05-May-23",
+    "close": 310.65,
+    "rsi": 61.43
+  },
+  {
+    "dateOpen": "10-Aug-22",
+    "open": 288.17,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 65.83
+  },
+  {
+    "dateOpen": "11-Aug-22",
+    "open": 290.85,
+    "dateClose": "22-May-23",
+    "close": 321.18,
+    "rsi": 63.4
+  },
+  {
+    "dateOpen": "12-Aug-22",
+    "open": 288.48,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 66.45
+  },
+  {
+    "dateOpen": "15-Aug-22",
+    "open": 291.0,
+    "dateClose": "22-May-23",
+    "close": 321.18,
+    "rsi": 67.38
+  },
+  {
+    "dateOpen": "16-Aug-22",
+    "open": 291.99,
+    "dateClose": "25-May-23",
+    "close": 325.92,
+    "rsi": 66.42
+  },
+  {
+    "dateOpen": "17-Aug-22",
+    "open": 289.74,
+    "dateClose": "22-May-23",
+    "close": 321.18,
+    "rsi": 64.59
+  },
+  {
+    "dateOpen": "18-Aug-22",
+    "open": 290.19,
+    "dateClose": "22-May-23",
+    "close": 321.18,
+    "rsi": 63.04
+  },
+  {
+    "dateOpen": "19-Aug-22",
+    "open": 288.9,
+    "dateClose": "18-May-23",
+    "close": 318.52,
+    "rsi": 57.82
+  },
+  {
+    "dateOpen": "22-Aug-22",
+    "open": 282.08,
+    "dateClose": "05-May-23",
+    "close": 310.65,
+    "rsi": 48.75
+  },
+  {
+    "dateOpen": "23-Aug-22",
+    "open": 276.44,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 47.49
+  },
+  {
+    "dateOpen": "24-Aug-22",
+    "open": 275.41,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 46.85
+  },
+  {
+    "dateOpen": "25-Aug-22",
+    "open": 277.33,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 50.26
+  },
+  {
+    "dateOpen": "26-Aug-22",
+    "open": 279.08,
+    "dateClose": "28-Apr-23",
+    "close": 307.26,
+    "rsi": 40.43
+  },
+  {
+    "dateOpen": "29-Aug-22",
+    "open": 265.85,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 38.29
+  },
+  {
+    "dateOpen": "30-Aug-22",
+    "open": 266.67,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 36.63
+  },
+  {
+    "dateOpen": "31-Aug-22",
+    "open": 265.39,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 35.54
+  },
+  {
+    "dateOpen": "01-Sep-22",
+    "open": 258.87,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 34.74
+  },
+  {
+    "dateOpen": "02-Sep-22",
+    "open": 261.7,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 31.63
+  },
+  {
+    "dateOpen": "06-Sep-22",
+    "open": 256.2,
+    "dateClose": "30-Mar-23",
+    "close": 284.05,
+    "rsi": 29.77
+  },
+  {
+    "dateOpen": "07-Sep-22",
+    "open": 254.7,
+    "dateClose": "24-Mar-23",
+    "close": 280.57,
+    "rsi": 36.67
+  },
+  {
+    "dateOpen": "08-Sep-22",
+    "open": 257.51,
+    "dateClose": "30-Mar-23",
+    "close": 284.05,
+    "rsi": 37.26
+  },
+  {
+    "dateOpen": "09-Sep-22",
+    "open": 260.5,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 44.89
+  },
+  {
+    "dateOpen": "12-Sep-22",
+    "open": 265.78,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 47.43
+  },
+  {
+    "dateOpen": "13-Sep-22",
+    "open": 258.84,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 35.6
+  },
+  {
+    "dateOpen": "14-Sep-22",
+    "open": 253.53,
+    "dateClose": "17-Mar-23",
+    "close": 279.43,
+    "rsi": 35.87
+  },
+  {
+    "dateOpen": "15-Sep-22",
+    "open": 249.77,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 31.63
+  },
+  {
+    "dateOpen": "16-Sep-22",
+    "open": 244.26,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 31.25
+  },
+  {
+    "dateOpen": "19-Sep-22",
+    "open": 242.47,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 31.12
+  },
+  {
+    "dateOpen": "20-Sep-22",
+    "open": 242.07,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 29.81
+  },
+  {
+    "dateOpen": "21-Sep-22",
+    "open": 244.27,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 27.68
+  },
+  {
+    "dateOpen": "22-Sep-22",
+    "open": 237.87,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 30.76
+  },
+  {
+    "dateOpen": "23-Sep-22",
+    "open": 239.54,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 28.77
+  },
+  {
+    "dateOpen": "26-Sep-22",
+    "open": 237.05,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 28.47
+  },
+  {
+    "dateOpen": "27-Sep-22",
+    "open": 239.98,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 27.77
+  },
+  {
+    "dateOpen": "28-Sep-22",
+    "open": 236.81,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 35.44
+  },
+  {
+    "dateOpen": "29-Sep-22",
+    "open": 238.89,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 32.58
+  },
+  {
+    "dateOpen": "30-Sep-22",
+    "open": 238.29,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 29.31
+  },
+  {
+    "dateOpen": "03-Oct-22",
+    "open": 235.41,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 40.32
+  },
+  {
+    "dateOpen": "04-Oct-22",
+    "open": 245.09,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 49.18
+  },
+  {
+    "dateOpen": "05-Oct-22",
+    "open": 245.99,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 49.5
+  },
+  {
+    "dateOpen": "06-Oct-22",
+    "open": 247.93,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 47.11
+  },
+  {
+    "dateOpen": "07-Oct-22",
+    "open": 240.9,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 37.09
+  },
+  {
+    "dateOpen": "10-Oct-22",
+    "open": 233.05,
+    "dateClose": "13-Dec-22",
+    "close": 256.92,
+    "rsi": 33.99
+  },
+  {
+    "dateOpen": "11-Oct-22",
+    "open": 227.62,
+    "dateClose": "25-Oct-22",
+    "close": 250.66,
+    "rsi": 31.79
+  },
+  {
+    "dateOpen": "12-Oct-22",
+    "open": 225.4,
+    "dateClose": "25-Oct-22",
+    "close": 250.66,
+    "rsi": 32.21
+  },
+  {
+    "dateOpen": "13-Oct-22",
+    "open": 219.85,
+    "dateClose": "21-Oct-22",
+    "close": 242.12,
+    "rsi": 41.81
+  },
+  {
+    "dateOpen": "14-Oct-22",
+    "open": 235.54,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 37.94
+  },
+  {
+    "dateOpen": "17-Oct-22",
+    "open": 235.82,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 46.38
+  },
+  {
+    "dateOpen": "18-Oct-22",
+    "open": 243.24,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 47.21
+  },
+  {
+    "dateOpen": "19-Oct-22",
+    "open": 237.04,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 45.62
+  },
+  {
+    "dateOpen": "20-Oct-22",
+    "open": 235.77,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 45.35
+  },
+  {
+    "dateOpen": "21-Oct-22",
+    "open": 234.74,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 50.99
+  },
+  {
+    "dateOpen": "24-Oct-22",
+    "open": 243.76,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 55.27
+  },
+  {
+    "dateOpen": "25-Oct-22",
+    "open": 247.26,
+    "dateClose": "14-Feb-23",
+    "close": 272.17,
+    "rsi": 57.89
+  },
+  {
+    "dateOpen": "26-Oct-22",
+    "open": 231.17,
+    "dateClose": "30-Nov-22",
+    "close": 255.14,
+    "rsi": 42.6
+  },
+  {
+    "dateOpen": "27-Oct-22",
+    "open": 231.04,
+    "dateClose": "30-Nov-22",
+    "close": 255.14,
+    "rsi": 39.92
+  },
+  {
+    "dateOpen": "28-Oct-22",
+    "open": 226.24,
+    "dateClose": "30-Nov-22",
+    "close": 255.14,
+    "rsi": 47.08
+  },
+  {
+    "dateOpen": "31-Oct-22",
+    "open": 233.76,
+    "dateClose": "14-Dec-22",
+    "close": 257.22,
+    "rsi": 44.73
+  },
+  {
+    "dateOpen": "01-Nov-22",
+    "open": 234.6,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 42.31
+  },
+  {
+    "dateOpen": "02-Nov-22",
+    "open": 229.46,
+    "dateClose": "30-Nov-22",
+    "close": 255.14,
+    "rsi": 37.84
+  },
+  {
+    "dateOpen": "03-Nov-22",
+    "open": 220.09,
+    "dateClose": "10-Nov-22",
+    "close": 242.98,
+    "rsi": 34.95
+  },
+  {
+    "dateOpen": "04-Nov-22",
+    "open": 217.55,
+    "dateClose": "10-Nov-22",
+    "close": 242.98,
+    "rsi": 40.88
+  },
+  {
+    "dateOpen": "07-Nov-22",
+    "open": 221.99,
+    "dateClose": "11-Nov-22",
+    "close": 247.11,
+    "rsi": 45.72
+  },
+  {
+    "dateOpen": "08-Nov-22",
+    "open": 228.7,
+    "dateClose": "30-Nov-22",
+    "close": 255.14,
+    "rsi": 46.45
+  },
+  {
+    "dateOpen": "09-Nov-22",
+    "open": 227.37,
+    "dateClose": "30-Nov-22",
+    "close": 255.14,
+    "rsi": 43.69
+  },
+  {
+    "dateOpen": "10-Nov-22",
+    "open": 235.43,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 55.68
+  },
+  {
+    "dateOpen": "11-Nov-22",
+    "open": 242.99,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 57.84
+  },
+  {
+    "dateOpen": "14-Nov-22",
+    "open": 241.99,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 54.02
+  },
+  {
+    "dateOpen": "15-Nov-22",
+    "open": 245.66,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 54.27
+  },
+  {
+    "dateOpen": "16-Nov-22",
+    "open": 242.79,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 54.09
+  },
+  {
+    "dateOpen": "17-Nov-22",
+    "open": 237.78,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 54.05
+  },
+  {
+    "dateOpen": "18-Nov-22",
+    "open": 243.51,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 53.66
+  },
+  {
+    "dateOpen": "21-Nov-22",
+    "open": 241.43,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 54.3
+  },
+  {
+    "dateOpen": "22-Nov-22",
+    "open": 243.59,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 56.62
+  },
+  {
+    "dateOpen": "23-Nov-22",
+    "open": 245.11,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 58.56
+  },
+  {
+    "dateOpen": "25-Nov-22",
+    "open": 247.31,
+    "dateClose": "14-Feb-23",
+    "close": 272.17,
+    "rsi": 58.46
+  },
+  {
+    "dateOpen": "28-Nov-22",
+    "open": 246.08,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 52.37
+  },
+  {
+    "dateOpen": "29-Nov-22",
+    "open": 241.4,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 50.94
+  },
+  {
+    "dateOpen": "30-Nov-22",
+    "open": 240.57,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 62.38
+  },
+  {
+    "dateOpen": "01-Dec-22",
+    "open": 253.87,
+    "dateClose": "17-Mar-23",
+    "close": 279.43,
+    "rsi": 61.9
+  },
+  {
+    "dateOpen": "02-Dec-22",
+    "open": 249.82,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 62.13
+  },
+  {
+    "dateOpen": "05-Dec-22",
+    "open": 252.01,
+    "dateClose": "17-Mar-23",
+    "close": 279.43,
+    "rsi": 56.82
+  },
+  {
+    "dateOpen": "06-Dec-22",
+    "open": 250.82,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 51.79
+  },
+  {
+    "dateOpen": "07-Dec-22",
+    "open": 244.83,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 51.08
+  },
+  {
+    "dateOpen": "08-Dec-22",
+    "open": 244.84,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 53.86
+  },
+  {
+    "dateOpen": "09-Dec-22",
+    "open": 244.7,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 51.79
+  },
+  {
+    "dateOpen": "12-Dec-22",
+    "open": 247.45,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 58.02
+  },
+  {
+    "dateOpen": "13-Dec-22",
+    "open": 261.69,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 61.36
+  },
+  {
+    "dateOpen": "14-Dec-22",
+    "open": 257.13,
+    "dateClose": "30-Mar-23",
+    "close": 284.05,
+    "rsi": 61.59
+  },
+  {
+    "dateOpen": "15-Dec-22",
+    "open": 253.72,
+    "dateClose": "17-Mar-23",
+    "close": 279.43,
+    "rsi": 52.59
+  },
+  {
+    "dateOpen": "16-Dec-22",
+    "open": 248.55,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 48.57
+  },
+  {
+    "dateOpen": "19-Dec-22",
+    "open": 244.86,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 44.94
+  },
+  {
+    "dateOpen": "20-Dec-22",
+    "open": 239.4,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 46.32
+  },
+  {
+    "dateOpen": "21-Dec-22",
+    "open": 241.69,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 48.99
+  },
+  {
+    "dateOpen": "22-Dec-22",
+    "open": 241.26,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 43.46
+  },
+  {
+    "dateOpen": "23-Dec-22",
+    "open": 236.11,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 44.05
+  },
+  {
+    "dateOpen": "27-Dec-22",
+    "open": 238.7,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 42.48
+  },
+  {
+    "dateOpen": "28-Dec-22",
+    "open": 236.89,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 40.37
+  },
+  {
+    "dateOpen": "29-Dec-22",
+    "open": 235.65,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 47.83
+  },
+  {
+    "dateOpen": "30-Dec-22",
+    "open": 238.21,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 46.68
+  },
+  {
+    "dateOpen": "03-Jan-23",
+    "open": 243.08,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 46.43
+  },
+  {
+    "dateOpen": "04-Jan-23",
+    "open": 232.28,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 37.28
+  },
+  {
+    "dateOpen": "05-Jan-23",
+    "open": 227.2,
+    "dateClose": "01-Feb-23",
+    "close": 252.75,
+    "rsi": 32.78
+  },
+  {
+    "dateOpen": "06-Jan-23",
+    "open": 223.0,
+    "dateClose": "26-Jan-23",
+    "close": 248.0,
+    "rsi": 35.99
+  },
+  {
+    "dateOpen": "09-Jan-23",
+    "open": 226.45,
+    "dateClose": "01-Feb-23",
+    "close": 252.75,
+    "rsi": 38.63
+  },
+  {
+    "dateOpen": "10-Jan-23",
+    "open": 227.76,
+    "dateClose": "01-Feb-23",
+    "close": 252.75,
+    "rsi": 40.72
+  },
+  {
+    "dateOpen": "11-Jan-23",
+    "open": 231.29,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 48.27
+  },
+  {
+    "dateOpen": "12-Jan-23",
+    "open": 235.26,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 50.94
+  },
+  {
+    "dateOpen": "13-Jan-23",
+    "open": 237.0,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 51.65
+  },
+  {
+    "dateOpen": "17-Jan-23",
+    "open": 237.97,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 52.78
+  },
+  {
+    "dateOpen": "18-Jan-23",
+    "open": 241.57,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 47.87
+  },
+  {
+    "dateOpen": "19-Jan-23",
+    "open": 233.78,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 44.09
+  },
+  {
+    "dateOpen": "20-Jan-23",
+    "open": 234.86,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 52.68
+  },
+  {
+    "dateOpen": "23-Jan-23",
+    "open": 241.1,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 54.81
+  },
+  {
+    "dateOpen": "24-Jan-23",
+    "open": 242.5,
+    "dateClose": "07-Feb-23",
+    "close": 267.56,
+    "rsi": 54.21
+  },
+  {
+    "dateOpen": "25-Jan-23",
+    "open": 234.48,
+    "dateClose": "02-Feb-23",
+    "close": 264.6,
+    "rsi": 52.57
+  },
+  {
+    "dateOpen": "26-Jan-23",
+    "open": 243.65,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 59.42
+  },
+  {
+    "dateOpen": "27-Jan-23",
+    "open": 248.99,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 59.56
+  },
+  {
+    "dateOpen": "30-Jan-23",
+    "open": 244.51,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 53.03
+  },
+  {
+    "dateOpen": "31-Jan-23",
+    "open": 243.45,
+    "dateClose": "13-Feb-23",
+    "close": 271.32,
+    "rsi": 57.7
+  },
+  {
+    "dateOpen": "01-Feb-23",
+    "open": 248.0,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 61.68
+  },
+  {
+    "dateOpen": "02-Feb-23",
+    "open": 258.82,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 69.17
+  },
+  {
+    "dateOpen": "03-Feb-23",
+    "open": 259.54,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 62.26
+  },
+  {
+    "dateOpen": "06-Feb-23",
+    "open": 257.44,
+    "dateClose": "30-Mar-23",
+    "close": 284.05,
+    "rsi": 60.61
+  },
+  {
+    "dateOpen": "07-Feb-23",
+    "open": 260.53,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 67.03
+  },
+  {
+    "dateOpen": "08-Feb-23",
+    "open": 273.2,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 66.14
+  },
+  {
+    "dateOpen": "09-Feb-23",
+    "open": 273.8,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 62.76
+  },
+  {
+    "dateOpen": "10-Feb-23",
+    "open": 261.53,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 62.19
+  },
+  {
+    "dateOpen": "13-Feb-23",
+    "open": 267.64,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 67.26
+  },
+  {
+    "dateOpen": "14-Feb-23",
+    "open": 272.67,
+    "dateClose": "27-Apr-23",
+    "close": 304.83,
+    "rsi": 67.74
+  },
+  {
+    "dateOpen": "15-Feb-23",
+    "open": 268.32,
+    "dateClose": "26-Apr-23",
+    "close": 295.37,
+    "rsi": 64.33
+  },
+  {
+    "dateOpen": "16-Feb-23",
+    "open": 264.02,
+    "dateClose": "06-Apr-23",
+    "close": 291.6,
+    "rsi": 56.59
+  },
+  {
+    "dateOpen": "17-Feb-23",
+    "open": 259.39,
+    "dateClose": "31-Mar-23",
+    "close": 288.3,
+    "rsi": 52.69
+  },
+  {
+    "dateOpen": "21-Feb-23",
+    "open": 254.48,
+    "dateClose": "24-Mar-23",
+    "close": 280.57,
+    "rsi": 48.0
+  },
+  {
+    "dateOpen": "22-Feb-23",
+    "open": 254.09,
+    "dateClose": "24-Mar-23",
+    "close": 280.57,
+    "rsi": 47.03
+  },
+  {
+    "dateOpen": "23-Feb-23",
+    "open": 255.56,
+    "dateClose": "30-Mar-23",
+    "close": 284.05,
+    "rsi": 50.09
+  },
+  {
+    "dateOpen": "24-Feb-23",
+    "open": 249.96,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 45.3
+  },
+  {
+    "dateOpen": "27-Feb-23",
+    "open": 252.46,
+    "dateClose": "17-Mar-23",
+    "close": 279.43,
+    "rsi": 46.24
+  },
+  {
+    "dateOpen": "28-Feb-23",
+    "open": 249.07,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 45.58
+  },
+  {
+    "dateOpen": "01-Mar-23",
+    "open": 250.76,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 42.77
+  },
+  {
+    "dateOpen": "02-Mar-23",
+    "open": 246.55,
+    "dateClose": "16-Mar-23",
+    "close": 276.2,
+    "rsi": 48.06
+  },
+  {
+    "dateOpen": "03-Mar-23",
+    "open": 252.19,
+    "dateClose": "17-Mar-23",
+    "close": 279.43,
+    "rsi": 52.18
+  },
+  {
+    "dateOpen": "06-Mar-23",
+    "open": 256.43,
+    "dateClose": "30-Mar-23",
+    "close": 284.05,
+    "rsi": 53.67
+  },
+  {
+    "dateOpen": "07-Mar-23",
+    "open": 256.3,
+    "dateClose": "30-Mar-23",
+    "close": 284.05,
+    "rsi": 50.73
+  },
+  {
+    "dateOpen": "08-Mar-23",
+    "open": 254.04,
+    "dateClose": "24-Mar-23",
+    "close": 280.57,
+    "rsi": 50.24
+  }
+]
